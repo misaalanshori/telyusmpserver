@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-01-27 23:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-01-25 08:01:20 +0000"
@@ -590,13 +596,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-01-25 09:51:57 +0000",
+      "minecraft:blaze": "2023-01-27 23:33:12 +0000",
       "minecraft:skeleton": "2023-01-25 08:39:39 +0000",
       "minecraft:ravager": "2023-01-25 10:07:34 +0000",
       "minecraft:hoglin": "2023-01-26 02:59:08 +0000",
       "minecraft:vindicator": "2023-01-25 10:01:10 +0000",
+      "minecraft:magma_cube": "2023-01-27 23:38:42 +0000",
       "minecraft:spider": "2023-01-25 09:06:39 +0000",
       "minecraft:creeper": "2023-01-25 08:42:36 +0000",
       "minecraft:witch": "2023-01-25 10:07:26 +0000",
+      "minecraft:wither_skeleton": "2023-01-27 23:37:47 +0000",
       "minecraft:piglin": "2023-01-26 13:10:26 +0000",
       "minecraft:silverfish": "2023-01-26 01:39:38 +0000",
       "minecraft:vex": "2023-01-25 09:55:03 +0000",
@@ -854,6 +863,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2023-01-25 10:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-01-27 23:39:51 +0000"
     },
     "done": true
   },
@@ -2409,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-01-27 23:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-01-27 00:08:13 +0000"
@@ -2595,6 +2616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-01-27 23:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2023-01-26 23:37:43 +0000"
@@ -2634,6 +2661,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2023-01-25 10:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-01-27 23:39:51 +0000"
     },
     "done": true
   },
