@@ -1,233 +1,315 @@
-[00:03:32] [User Authenticator #8/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[00:03:32] [Server thread/INFO]: anotherMIsa joined the game
-[00:03:32] [Server thread/INFO]: anotherMIsa[/125.164.17.248:18775] logged in with entity id 26382 at ([world]68.25114698178268, 64.15742543334164, 133.24240624072468)
-[00:04:12] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[00:04:12] [Server thread/INFO]: anotherMIsa left the game
-[01:30:43] [User Authenticator #9/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[01:30:43] [Server thread/INFO]: MrLION7 joined the game
-[01:30:43] [Server thread/INFO]: MrLION7[/103.194.175.70:51101] logged in with entity id 26563 at ([world]147.29490091954654, 63.0, 191.1809113128853)
-[01:32:26] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[01:32:27] [Server thread/INFO]: MrLION7 left the game
-[01:34:54] [User Authenticator #10/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[01:34:54] [Server thread/INFO]: MrLION7 joined the game
-[01:34:54] [Server thread/INFO]: MrLION7[/103.194.175.70:51278] logged in with entity id 26883 at ([world]150.40994246166656, 63.0, 197.56384116915206)
-[02:11:08] [Server thread/INFO]: Villager EntityVillager['Fisherman'/227, uuid='cef8b7f9-6f50-49c5-8529-05f36b43fd82', l='ServerLevel[world]', x=89.70, y=63.00, z=130.91, cpos=[5, 8], tl=4288488, v=true] died, message: 'Fisherman was slain by Zombie Villager'
-[02:34:03] [User Authenticator #11/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[02:34:03] [Server thread/INFO]: anotherMIsa joined the game
-[02:34:03] [Server thread/INFO]: anotherMIsa[/125.164.17.248:9085] logged in with entity id 33964 at ([world]71.9023918900339, 65.0, 145.0073767395253)
-[02:36:40] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[02:36:40] [Server thread/INFO]: anotherMIsa left the game
-[02:49:59] [User Authenticator #12/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[02:49:59] [Server thread/INFO]: anotherMIsa joined the game
-[02:49:59] [Server thread/INFO]: anotherMIsa[/125.164.22.251:1593] logged in with entity id 35692 at ([world]79.1568203351005, 63.9375, 157.3297640082798)
-[02:51:01] [Async Chat Thread - #12/INFO]: [Not Secure] <anotherMIsa> bro
-[02:51:04] [Async Chat Thread - #12/INFO]: [Not Secure] <anotherMIsa> sex dungeon
-[02:51:14] [Async Chat Thread - #13/INFO]: [Not Secure] <MrLION7> Yeah segs
-[02:51:28] [Async Chat Thread - #12/INFO]: [Not Secure] <MrLION7> here the new recruit
-[02:51:32] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> nice
-[02:52:48] [Async Chat Thread - #14/INFO]: [Not Secure] <MrLION7> im going to do stuff in real life
-[02:52:52] [Async Chat Thread - #15/INFO]: [Not Secure] <anotherMIsa> okay
-[02:52:59] [Async Chat Thread - #15/INFO]: [Not Secure] <MrLION7> see u
-[02:53:01] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[02:53:01] [Server thread/INFO]: MrLION7 left the game
-[02:53:10] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[02:53:10] [Server thread/INFO]: anotherMIsa left the game
-[03:27:58] [User Authenticator #13/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[03:27:58] [Server thread/INFO]: anotherMIsa joined the game
-[03:27:58] [Server thread/INFO]: anotherMIsa[/125.164.20.78:30395] logged in with entity id 36084 at ([world]137.12282251448156, 42.0, 196.53787499304892)
-[03:53:51] [User Authenticator #14/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
-[03:53:51] [Server thread/INFO]: Erha joined the game
-[03:53:51] [Server thread/INFO]: Erha[/125.160.156.3:56382] logged in with entity id 39295 at ([world]109.97193479608697, 62.9375, 165.6049087074328)
-[04:03:19] [User Authenticator #15/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[04:03:19] [Server thread/INFO]: Regyyy joined the game
-[04:03:19] [Server thread/INFO]: Regyyy[/125.164.99.182:25680] logged in with entity id 40379 at ([world]111.45883191038249, 69.0, 86.99300051603194)
-[04:05:00] [Async Chat Thread - #16/INFO]: [Not Secure] <Regyyy> selamat pagi people
-[04:10:14] [Async Chat Thread - #18/INFO]: [Not Secure] <Erha> Turu
-[04:38:33] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[04:38:33] [Server thread/INFO]: anotherMIsa left the game
-[04:45:57] [Async Chat Thread - #20/INFO]: [Not Secure] <Regyyy> hello people
-[04:46:05] [Async Chat Thread - #21/INFO]: [Not Secure] <Erha> Ui
-[04:48:27] [Server thread/INFO]: Erha was slain by Wither Skeleton
-[04:48:33] [Async Chat Thread - #22/INFO]: [Not Secure] <Regyyy> tidak awikwok
-[04:48:58] [Async Chat Thread - #23/INFO]: [Not Secure] <Erha> Di gengbeng mulu
-[04:51:11] [Server thread/INFO]: Erha was shot by Skeleton
-[04:51:20] [Async Chat Thread - #24/INFO]: [Not Secure] <Regyyy> you need help?
-[04:51:44] [Async Chat Thread - #24/INFO]: [Not Secure] <Erha> Lu punya apple ga
-[04:51:48] [Async Chat Thread - #24/INFO]: [Not Secure] <Regyyy> engga
-[04:55:05] [Async Chat Thread - #26/INFO]: [Not Secure] <Regyyy> ni ada 1
-[04:57:09] [Async Chat Thread - #28/INFO]: [Not Secure] <Erha> Dah aman keknya ni
-[04:58:56] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[04:58:56] [Server thread/INFO]: Regyyy left the game
-[05:00:11] [User Authenticator #16/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[05:00:11] [Server thread/INFO]: Regyyy joined the game
-[05:00:11] [Server thread/INFO]: Regyyy[/125.164.99.182:13956] logged in with entity id 53012 at ([world]59.45392816630065, 78.0, 108.89555205863762)
-[05:05:38] [Async Chat Thread - #30/INFO]: [Not Secure] <Regyyy> the fuck is this
-[05:06:17] [Async Chat Thread - #31/INFO]: [Not Secure] <Erha> Afk geming dlu gw
-[05:06:20] [Async Chat Thread - #31/INFO]: [Not Secure] <Regyyy> ok
-[05:10:33] [Server thread/INFO]: Regyyy has made the advancement [Not Today, Thank You]
-[05:11:01] [Server thread/INFO]: Regyyy was doomed to fall by Pillager
-[05:16:06] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[05:16:06] [Server thread/INFO]: Regyyy left the game
-[05:16:32] [User Authenticator #17/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[05:16:32] [Server thread/INFO]: Regyyy joined the game
-[05:16:32] [Server thread/INFO]: Regyyy[/125.164.99.182:9410] logged in with entity id 56365 at ([world]74.31143724226128, 72.0, 112.14925765964229)
-[05:20:10] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[05:20:10] [Server thread/INFO]: Regyyy left the game
-[05:20:52] [User Authenticator #18/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[05:20:52] [Server thread/INFO]: Regyyy joined the game
-[05:20:52] [Server thread/INFO]: Regyyy[/125.164.99.182:20986] logged in with entity id 57035 at ([world]69.04069529089, 85.0, 112.5926640566965)
-[05:21:07] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[05:21:07] [Server thread/INFO]: Regyyy left the game
-[05:22:00] [User Authenticator #19/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[05:22:00] [Server thread/INFO]: Regyyy joined the game
-[05:22:00] [Server thread/INFO]: Regyyy[/125.164.99.182:31045] logged in with entity id 57192 at ([world]59.36095040842189, 92.0, 105.3049681712159)
-[05:22:41] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[05:22:41] [Server thread/INFO]: Regyyy left the game
-[05:23:06] [User Authenticator #20/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[05:23:07] [Server thread/INFO]: Regyyy joined the game
-[05:23:07] [Server thread/INFO]: Regyyy[/125.164.99.182:19301] logged in with entity id 57365 at ([world]60.33338079156385, 70.0, 89.665216833997)
-[05:40:28] [User Authenticator #21/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[05:40:28] [Server thread/INFO]: MrLION7 joined the game
-[05:40:28] [Server thread/INFO]: MrLION7[/103.194.175.70:52202] logged in with entity id 60062 at ([world]148.6028974590553, 42.0, 196.38128343272083)
-[05:43:33] [Async Chat Thread - #32/INFO]: [Not Secure] <Regyyy> bone jangan dibuang bang
-[05:43:43] [Async Chat Thread - #33/INFO]: [Not Secure] <Erha> Ambil tuh di air wkwkwkw
-[06:03:53] [Async Chat Thread - #34/INFO]: [Not Secure] <Erha> Lu mau makai?
-[06:03:59] [Async Chat Thread - #34/INFO]: [Not Secure] <MrLION7> bone
-[06:04:08] [Async Chat Thread - #35/INFO]: [Not Secure] <Erha> Ooh
-[06:04:31] [User Authenticator #22/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
-[06:04:31] [Server thread/INFO]: LordMax4581 joined the game
-[06:04:31] [Server thread/INFO]: LordMax4581[/127.0.0.1:50821] logged in with entity id 64606 at ([world]251.5, 63.0, 300.5)
-[06:04:45] [Async Chat Thread - #34/INFO]: [Not Secure] <MrLION7> MAKAI POKET EDITION
-[06:04:51] [Async Chat Thread - #35/INFO]: [Not Secure] <LordMax4581> yes
-[06:04:55] [Async Chat Thread - #34/INFO]: [Not Secure] <MrLION7> geming
-[06:05:22] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[06:05:22] [Server thread/INFO]: Regyyy left the game
-[06:15:36] [Async Chat Thread - #36/INFO]: [Not Secure] <MrLION7> rihan
-[06:15:41] [Async Chat Thread - #37/INFO]: [Not Secure] <MrLION7> RIHAN
-[06:15:46] [Async Chat Thread - #36/INFO]: [Not Secure] <MrLION7> JANGAN NAIK
-[06:15:54] [Async Chat Thread - #37/INFO]: [Not Secure] <MrLION7> MAX JANGAN KE SPAWN
-[06:15:58] [Async Chat Thread - #36/INFO]: [Not Secure] <Erha> Hah
-[06:16:08] [Async Chat Thread - #36/INFO]: [Not Secure] <LordMax4581> nape
-[06:16:37] [Async Chat Thread - #37/INFO]: [Not Secure] <MrLION7> ok aman
-[06:16:44] [Async Chat Thread - #36/INFO]: [Not Secure] <MrLION7> bug doang
-[06:23:31] [Async Chat Thread - #39/INFO]: [Not Secure] <MrLION7> rihan
-[06:23:38] [Async Chat Thread - #38/INFO]: [Not Secure] <MrLION7> I need invest
-[06:23:46] [Async Chat Thread - #39/INFO]: [Not Secure] <MrLION7> 14 iron
-[06:24:09] [Async Chat Thread - #38/INFO]: [Not Secure] <Erha> Untuk?
-[06:24:28] [Async Chat Thread - #38/INFO]: [Not Secure] <MrLION7> 2 hopper untuk more storage di farm
-[06:25:18] [Async Chat Thread - #38/INFO]: [Not Secure] <Erha> Oh iya iron gw udah dikit karena mati tadi
-[06:25:23] [Async Chat Thread - #39/INFO]: [Not Secure] <MrLION7> fuk
-[06:25:24] [Async Chat Thread - #38/INFO]: [Not Secure] <Erha> Mining lagi gw tar
-[06:27:02] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.35211181640625
-[06:27:02] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.82183837890625
-[06:27:03] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 1.09991455078125
-[06:27:03] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.7095947265625
-[06:27:03] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.44366455078125
-[06:27:03] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.26275634765625
-[06:27:37] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.27032470703125
-[06:27:37] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.69415283203125
-[06:27:37] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.42559814453125
-[06:27:40] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.458740234375
-[06:27:40] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.9615478515625
-[06:27:40] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.6422119140625
-[06:27:40] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.4273681640625
-[06:27:40] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.29205322265625
-[06:27:43] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.4444580078125
-[06:27:43] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.9300537109375
-[06:28:08] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.35394287109375
-[06:28:08] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.81866455078125
-[06:28:08] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 1.0
-[06:28:08] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.65533447265625
-[06:28:09] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.41375732421875
-[06:29:21] [Async Chat Thread - #40/INFO]: [Not Secure] <MrLION7> RH
-[06:29:27] [Async Chat Thread - #41/INFO]: [Not Secure] <MrLION7> tell me
-[06:29:45] [Async Chat Thread - #40/INFO]: [Not Secure] <Erha> Ui
-[06:29:58] [Async Chat Thread - #40/INFO]: [Not Secure] <MrLION7> does it hurt ?
-[06:29:59] [Async Chat Thread - #42/INFO]: [Not Secure] <LordMax4581> h
-[06:32:32] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.58837890625
-[06:32:32] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.87884521484375
-[06:32:32] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.4913330078125
-[06:33:54] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[06:33:54] [Server thread/INFO]: MrLION7 left the game
-[06:34:09] [Server thread/INFO]: Erha lost connection: Disconnected
-[06:34:09] [Server thread/INFO]: Erha left the game
-[06:34:30] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.39373779296875
-[06:34:30] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.825439453125
-[06:34:31] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.26123046875
-[06:34:31] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.51910400390625
-[06:36:52] [User Authenticator #23/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[06:36:53] [Server thread/INFO]: Regyyy joined the game
-[06:36:53] [Server thread/INFO]: Regyyy[/125.164.99.182:12362] logged in with entity id 76567 at ([world]107.39393712365474, 70.0, 105.59923808924572)
-[06:38:06] [Server thread/INFO]: LordMax4581 lost connection: Disconnected
-[06:38:06] [Server thread/INFO]: LordMax4581 left the game
-[06:47:16] [Server thread/WARN]: Boat (vehicle of Regyyy) moved wrongly! 0.5634148802016057
-[06:50:22] [User Authenticator #24/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
-[06:50:22] [Server thread/INFO]: Erha joined the game
-[06:50:22] [Server thread/INFO]: Erha[/125.160.156.3:58903] logged in with entity id 81878 at ([world]7.300000011920929, 29.0, 169.30000001192093)
-[06:55:12] [User Authenticator #25/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
-[06:55:12] [Server thread/INFO]: LordMax4581 joined the game
-[06:55:12] [Server thread/INFO]: LordMax4581[/127.0.0.1:46043] logged in with entity id 83985 at ([world]673.8501, 63.0, 536.565)
-[06:56:57] [Async Chat Thread - #43/INFO]: [Not Secure] <Regyyy> saya terima sumbangan sand dirt gravel yang gak kepake
-[06:57:15] [Async Chat Thread - #44/INFO]: [Not Secure] <Erha> Ga punya euy
-[07:09:10] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.25469970703125
-[07:09:10] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.5367431640625
-[07:09:10] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.703857421875
-[07:09:57] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.259063720703125
-[07:09:57] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.525726318359375
-[07:09:57] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.77777099609375
-[07:09:58] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.37689208984375
-[07:09:58] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.85369873046875
-[07:09:58] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.44439697265625
-[07:09:58] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.9071044921875
-[07:09:58] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.85272216796875
-[07:09:58] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.57269287109375
-[07:09:58] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.38507080078125
-[07:09:58] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.258544921875
-[07:10:05] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.468170166015625
-[07:10:05] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.9532928466796875
-[07:10:05] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.4092254638671875
-[07:10:05] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.988037109375
-[07:10:05] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.9854278564453125
-[07:10:05] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.60528564453125
-[07:10:06] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.346923828125
-[07:15:57] [Server thread/INFO]: LordMax4581 lost connection: Disconnected
-[07:15:57] [Server thread/INFO]: LordMax4581 left the game
-[07:16:55] [User Authenticator #26/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
-[07:16:55] [Server thread/INFO]: LordMax4581 joined the game
-[07:16:55] [Server thread/INFO]: LordMax4581[/127.0.0.1:59179] logged in with entity id 92751 at ([world]29.762602, 47.0, 466.63422)
-[07:24:44] [Server thread/INFO]: LordMax4581 has made the advancement [Not Today, Thank You]
-[07:24:50] [Server thread/INFO]: LordMax4581 has made the advancement [Monster Hunter]
-[07:25:10] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[07:25:10] [Server thread/INFO]: Regyyy left the game
-[07:25:18] [Server thread/INFO]: LordMax4581 has made the advancement [Diamonds!]
-[07:25:40] [Server thread/INFO]: LordMax4581 was shot by Skeleton
-[07:36:19] [User Authenticator #27/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:36:19] [Server thread/INFO]: anotherMIsa joined the game
-[07:36:19] [Server thread/INFO]: anotherMIsa[/125.164.20.78:24914] logged in with entity id 99895 at ([world]65.98897730135518, 67.0625, 167.05965418231338)
-[07:50:48] [Server thread/INFO]: LordMax4581 was shot by Skeleton
-[07:55:52] [Server thread/INFO]: LordMax4581 was shot by Skeleton
-[07:57:10] [Server thread/INFO]: LordMax4581 was shot by Skeleton
-[07:59:52] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:59:52] [Server thread/INFO]: anotherMIsa left the game
-[08:02:06] [Server thread/INFO]: LordMax4581 was slain by Zombie
-[08:02:20] [Server thread/INFO]: LordMax4581 lost connection: Disconnected
-[08:02:20] [Server thread/INFO]: LordMax4581 left the game
-[08:14:49] [Server thread/INFO]: Erha was killed by [Intentional Game Design]
-[08:22:26] [User Authenticator #28/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[08:22:26] [Server thread/INFO]: MrLION7 joined the game
-[08:22:26] [Server thread/INFO]: MrLION7[/103.194.175.70:60992] logged in with entity id 115708 at ([world]87.30000001192093, 71.0, 115.7479118147821)
-[08:35:06] [Server thread/INFO]: MrLION7 has made the advancement [What a Deal!]
-[08:45:47] [User Authenticator #29/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:45:47] [Server thread/INFO]: anotherMIsa joined the game
-[08:45:47] [Server thread/INFO]: anotherMIsa[/125.164.22.251:19581] logged in with entity id 120474 at ([world]36.29116017639796, 63.0, 131.69999998807907)
-[08:53:00] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[08:53:00] [Server thread/INFO]: MrLION7 left the game
-[09:11:45] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:11:45] [Server thread/INFO]: anotherMIsa left the game
-[09:28:42] [Server thread/INFO]: Erha lost connection: Disconnected
-[09:28:42] [Server thread/INFO]: Erha left the game
-[10:02:10] [User Authenticator #30/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[10:02:10] [Server thread/INFO]: anotherMIsa joined the game
-[10:02:10] [Server thread/INFO]: anotherMIsa[/125.164.20.78:10494] logged in with entity id 127686 at ([world]146.03992905485043, 85.74739280407248, 450.37347821861783)
-[10:03:38] [Server thread/INFO]: Saving the game (this may take a moment!)
-[10:03:39] [Server thread/INFO]: Saved the game
+[10:14:28] [ServerMain/INFO]: Building unoptimized datafixer
+[10:14:29] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:14:31] [ServerMain/INFO]: Loaded 7 recipes
+[10:14:31] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[10:14:31] [Server thread/INFO]: Loading properties
+[10:14:31] [Server thread/INFO]: This server is running Paper version git-Paper-384 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: 18fabc0)
+[10:14:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:14:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:14:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[10:14:32] [Server thread/INFO]: Default game type: SURVIVAL
+[10:14:32] [Server thread/INFO]: Generating keypair
+[10:14:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:14:32] [Server thread/INFO]: Using epoll channel type
+[10:14:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[10:14:32] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[10:14:32] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[10:14:32] [Server thread/INFO]: [dynmap] Loading dynmap v3.5-beta-1-844
+[10:14:32] [Server thread/INFO]: [dynmap] version=git-Paper-384 (MC: 1.19.3)
+[10:14:32] [Server thread/INFO]: [dynmap] Mod Support API available
+[10:14:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:14:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:14:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:14:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:14:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:14:32] [Server thread/INFO]: Preparing level "world"
+[10:14:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:14:33] [Server thread/INFO]: Time elapsed: 154 ms
+[10:14:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:14:33] [Server thread/INFO]: Time elapsed: 56 ms
+[10:14:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:14:33] [Server thread/INFO]: Time elapsed: 83 ms
+[10:14:33] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[10:14:33] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[10:14:33] [Server thread/INFO]: [dynmap] Enabling dynmap v3.5-beta-1-844
+[10:14:33] [Server thread/INFO]: [dynmap] Added 19 custom biome mappings
+[10:14:33] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[10:14:33] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[10:14:34] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[10:14:36] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[10:14:36] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[10:14:36] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[10:14:36] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[10:14:36] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[10:14:37] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[10:14:37] [Server thread/INFO]: [dynmap] version 3.5-beta-1-844 is enabled - core version 3.5-beta-1-844
+[10:14:37] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[10:14:37] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[10:14:37] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[10:14:37] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[10:14:37] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[10:14:37] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[10:14:37] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[10:14:37] [Server thread/INFO]: [dynmap] Enabled
+[10:14:37] [Server thread/INFO]: Running delayed init tasks
+[10:14:37] [Server thread/INFO]: Done (5.521s)! For help, type "help"
+[10:14:37] [Server thread/INFO]: Timings Reset
+[10:16:31] [Server thread/INFO]: /dynmap - Control execution of dynmap.
+[10:16:31] [Server thread/INFO]:  Valid subcommands:  add-id-for-ip cancelrender del-id-for-ip dumpmemory fullrender hide ids-for-ip ips-for-id pause purgemap purgequeue purgeworld quiet radiusrender render resetstats sendtoweb show stats triggerstats updaterender url version webregister
+[10:16:37] [Server thread/INFO]: Command can only be issued by player.
+[10:16:47] [User Authenticator #0/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[10:16:47] [Server thread/INFO]: anotherMIsa joined the game
+[10:16:47] [Server thread/INFO]: anotherMIsa[/125.164.22.251:7763] logged in with entity id 476 at ([world]67.65755052959992, 65.9375, 152.3091348249079)
+[10:16:56] [Server thread/INFO]: anotherMIsa issued server command: /dynmap
+[10:17:07] [Server thread/INFO]: anotherMIsa issued server command: /dynmap fullrender
+[10:17:13] [Server thread/INFO]: Made anotherMIsa a server operator
+[10:17:16] [Server thread/INFO]: anotherMIsa issued server command: /dynmap fullrender
+[10:17:17] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[10:17:22] [Server thread/INFO]: Made anotherMIsa no longer a server operator
+[10:27:30] [User Authenticator #1/INFO]: UUID of player anotherMIsa2 is f5e7fc2f-4524-3cbd-a305-522461680e00
+[10:27:30] [Server thread/INFO]: anotherMIsa2 joined the game
+[10:27:30] [Server thread/INFO]: anotherMIsa2[/125.164.16.103:26038] logged in with entity id 1894 at ([world]6.5, 69.0, 8.5)
+[10:27:49] [Server thread/INFO]: anotherMIsa2 lost connection: Disconnected
+[10:27:49] [Server thread/INFO]: anotherMIsa2 left the game
+[10:27:52] [User Authenticator #1/INFO]: UUID of player anotherMIsa2 is f5e7fc2f-4524-3cbd-a305-522461680e00
+[10:27:52] [Server thread/INFO]: anotherMIsa2 joined the game
+[10:27:52] [Server thread/INFO]: anotherMIsa2[/125.164.22.251:18409] logged in with entity id 2034 at ([world]6.5, 69.0, 8.5)
+[10:29:02] [Server thread/INFO]: anotherMIsa2 lost connection: Disconnected
+[10:29:02] [Server thread/INFO]: anotherMIsa2 left the game
+[10:35:51] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[10:35:51] [Server thread/INFO]: anotherMIsa left the game
+[10:35:54] [User Authenticator #2/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[10:35:54] [Server thread/INFO]: anotherMIsa joined the game
+[10:35:54] [Server thread/INFO]: anotherMIsa[/125.164.20.78:19575] logged in with entity id 3295 at ([world]21.250080906339385, 69.0, 183.45072996509475)
+[10:58:24] [Server thread/INFO]: /dynmap - Control execution of dynmap.
+[10:58:24] [Server thread/INFO]:  Valid subcommands:  add-id-for-ip cancelrender del-id-for-ip dumpmemory fullrender hide ids-for-ip ips-for-id pause purgemap purgequeue purgeworld quiet radiusrender render resetstats sendtoweb show stats triggerstats updaterender url version webregister
+[10:58:29] [Server thread/INFO]: Tile Render Statistics:
+[10:58:29] [Server thread/INFO]:   world.ct: processed=326, rendered=326, updated=142, transparent=0
+[10:58:29] [Server thread/INFO]:   world.flat: processed=8913, rendered=8913, updated=8764, transparent=2627
+[10:58:29] [Server thread/INFO]:   world.t: processed=9075, rendered=9075, updated=8811, transparent=115
+[10:58:29] [Server thread/INFO]:   TOTALS: processed=18314, rendered=18314, updated=17717, transparent=2742
+[10:58:29] [Server thread/INFO]:   Triggered update queue size: 2 + 0
+[10:58:29] [Server thread/INFO]:   Active render jobs: world 
+[10:58:29] [Server thread/INFO]: Chunk Loading Statistics:
+[10:58:29] [Server thread/INFO]:   Cache hit rate: 67.61%
+[10:58:29] [Server thread/INFO]:   Chunks processed: Cached: count=767195, 0.00 msec/chunk
+[10:58:29] [Server thread/INFO]:   Chunks processed: Already Loaded: count=55775, 31.48 msec/chunk
+[10:58:29] [Server thread/INFO]:   Chunks processed: Load Required: count=139947, 0.55 msec/chunk
+[10:58:29] [Server thread/INFO]:   Chunks processed: Not Generated: count=15942, 0.00 msec/chunk
+[10:58:45] [Server thread/INFO]: World name is required
+[10:59:01] [Async Chat Thread - #1/INFO]: [Not Secure] <anotherMIsa> a
+[10:59:27] [Server thread/INFO]: Made anotherMIsa a server operator
+[10:59:33] [Server thread/INFO]: anotherMIsa issued server command: /dynmap quiet
+[10:59:37] [Server thread/INFO]: Made anotherMIsa no longer a server operator
+[10:59:46] [Server thread/INFO]: Tile Render Statistics:
+[10:59:46] [Server thread/INFO]:   world.ct: processed=338, rendered=338, updated=147, transparent=0
+[10:59:46] [Server thread/INFO]:   world.flat: processed=8926, rendered=8926, updated=8774, transparent=2627
+[10:59:46] [Server thread/INFO]:   world.t: processed=9438, rendered=9438, updated=9162, transparent=147
+[10:59:46] [Server thread/INFO]:   TOTALS: processed=18702, rendered=18702, updated=18083, transparent=2774
+[10:59:46] [Server thread/INFO]:   Triggered update queue size: 11 + 0
+[10:59:46] [Server thread/INFO]:   Active render jobs: world 
+[10:59:46] [Server thread/INFO]: Chunk Loading Statistics:
+[10:59:46] [Server thread/INFO]:   Cache hit rate: 67.72%
+[10:59:46] [Server thread/INFO]:   Chunks processed: Cached: count=794558, 0.00 msec/chunk
+[10:59:46] [Server thread/INFO]:   Chunks processed: Already Loaded: count=57384, 31.88 msec/chunk
+[10:59:46] [Server thread/INFO]:   Chunks processed: Load Required: count=144222, 0.55 msec/chunk
+[10:59:46] [Server thread/INFO]:   Chunks processed: Not Generated: count=16498, 0.00 msec/chunk
+[11:00:04] [Server thread/INFO]: World name is required
+[11:00:07] [Server thread/INFO]: World 'all' not defined/loaded
+[11:00:10] [Server thread/INFO]: Full render of world 'world' already active.
+[11:00:14] [Server thread/INFO]: World 'nether' not defined/loaded
+[11:00:22] [Server thread/INFO]: World 'the_nether' not defined/loaded
+[11:00:32] [Server thread/INFO]: Full render starting on world 'world_nether'...
+[11:00:34] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 100 tiles rendered (25.46 msec/tile, 22.32 msec per render)
+[11:00:35] [Server thread/INFO]: Full render starting on world 'world_the_end'...
+[11:00:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 200 tiles rendered (26.82 msec/tile, 23.96 msec per render)
+[11:00:40] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 300 tiles rendered (26.15 msec/tile, 23.34 msec per render)
+[11:00:41] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_the_end' in progress - 100 tiles rendered (58.53 msec/tile, 54.45 msec per render)
+[11:00:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 400 tiles rendered (26.09 msec/tile, 23.29 msec per render)
+[11:00:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 500 tiles rendered (25.96 msec/tile, 23.18 msec per render)
+[11:00:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_the_end' in progress - 200 tiles rendered (58.73 msec/tile, 54.72 msec per render)
+[11:00:49] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 600 tiles rendered (25.86 msec/tile, 23.06 msec per render)
+[11:00:52] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 700 tiles rendered (25.86 msec/tile, 23.06 msec per render)
+[11:00:54] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_the_end' in progress - 300 tiles rendered (58.46 msec/tile, 54.74 msec per render)
+[11:00:55] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 800 tiles rendered (25.93 msec/tile, 23.12 msec per render)
+[11:00:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 900 tiles rendered (26.07 msec/tile, 23.25 msec per render)
+[11:01:00] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_the_end' in progress - 400 tiles rendered (58.36 msec/tile, 54.77 msec per render)
+[11:01:01] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[11:01:02] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1000 tiles rendered (26.14 msec/tile, 23.30 msec per render)
+[11:01:04] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1100 tiles rendered (26.18 msec/tile, 23.34 msec per render)
+[11:01:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_the_end' in progress - 500 tiles rendered (57.28 msec/tile, 53.89 msec per render)
+[11:01:07] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_the_end' completed - 576 tiles rendered (51.46 msec/map-tile, 48.36 msec per render)
+[11:01:07] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1200 tiles rendered (26.03 msec/tile, 23.23 msec per render)
+[11:01:09] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1300 tiles rendered (25.59 msec/tile, 22.83 msec per render)
+[11:01:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1400 tiles rendered (25.69 msec/tile, 22.95 msec per render)
+[11:01:15] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1500 tiles rendered (25.40 msec/tile, 22.68 msec per render)
+[11:01:19] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1600 tiles rendered (25.57 msec/tile, 22.84 msec per render)
+[11:01:21] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1700 tiles rendered (25.36 msec/tile, 22.68 msec per render)
+[11:01:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' in progress - 1800 tiles rendered (25.29 msec/tile, 22.63 msec per render)
+[11:01:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world_nether' completed - 1819 tiles rendered (25.04 msec/map-tile, 22.41 msec per render)
+[11:01:24] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 100 tiles rendered (170.89 msec/tile, 164.06 msec per render)
+[11:01:27] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 100 tiles rendered (37.46 msec/tile, 34.90 msec per render)
+[11:01:31] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 200 tiles rendered (38.60 msec/tile, 34.60 msec per render)
+[11:01:35] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 300 tiles rendered (39.94 msec/tile, 35.50 msec per render)
+[11:01:41] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 400 tiles rendered (43.11 msec/tile, 38.29 msec per render)
+[11:01:43] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 200 tiles rendered (178.25 msec/tile, 171.33 msec per render)
+[11:01:48] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 500 tiles rendered (46.47 msec/tile, 41.68 msec per render)
+[11:01:55] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 600 tiles rendered (48.99 msec/tile, 44.11 msec per render)
+[11:02:01] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 700 tiles rendered (49.65 msec/tile, 44.82 msec per render)
+[11:02:04] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 300 tiles rendered (184.40 msec/tile, 177.81 msec per render)
+[11:02:07] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 800 tiles rendered (49.62 msec/tile, 44.72 msec per render)
+[11:02:14] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 900 tiles rendered (50.57 msec/tile, 45.62 msec per render)
+[11:02:19] [Server thread/INFO]: [WEB] 125.164.21.158: halo
+[11:02:20] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1000 tiles rendered (50.68 msec/tile, 45.76 msec per render)
+[11:02:25] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 400 tiles rendered (187.45 msec/tile, 180.81 msec per render)
+[11:02:27] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1100 tiles rendered (51.26 msec/tile, 46.29 msec per render)
+[11:02:34] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1200 tiles rendered (51.66 msec/tile, 46.76 msec per render)
+[11:02:40] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1300 tiles rendered (51.55 msec/tile, 46.63 msec per render)
+[11:02:46] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 500 tiles rendered (190.35 msec/tile, 183.74 msec per render)
+[11:02:47] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1400 tiles rendered (51.32 msec/tile, 46.44 msec per render)
+[11:02:52] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1500 tiles rendered (51.25 msec/tile, 46.37 msec per render)
+[11:02:58] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1600 tiles rendered (51.10 msec/tile, 46.22 msec per render)
+[11:03:04] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1700 tiles rendered (50.92 msec/tile, 46.06 msec per render)
+[11:03:07] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 600 tiles rendered (192.68 msec/tile, 185.87 msec per render)
+[11:03:09] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1800 tiles rendered (50.72 msec/tile, 45.96 msec per render)
+[11:03:14] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 1900 tiles rendered (50.11 msec/tile, 45.36 msec per render)
+[11:03:20] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2000 tiles rendered (50.03 msec/tile, 45.31 msec per render)
+[11:03:24] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2100 tiles rendered (49.62 msec/tile, 44.93 msec per render)
+[11:03:27] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 700 tiles rendered (193.47 msec/tile, 186.87 msec per render)
+[11:03:29] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2200 tiles rendered (49.46 msec/tile, 44.79 msec per render)
+[11:03:33] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2300 tiles rendered (49.23 msec/tile, 44.60 msec per render)
+[11:03:38] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2400 tiles rendered (48.93 msec/tile, 44.32 msec per render)
+[11:03:42] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2500 tiles rendered (48.80 msec/tile, 44.24 msec per render)
+[11:03:47] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 800 tiles rendered (193.97 msec/tile, 187.51 msec per render)
+[11:03:48] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2600 tiles rendered (48.61 msec/tile, 44.07 msec per render)
+[11:03:54] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2700 tiles rendered (48.50 msec/tile, 44.01 msec per render)
+[11:03:59] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[11:03:59] [Server thread/INFO]: anotherMIsa left the game
+[11:03:59] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2800 tiles rendered (48.54 msec/tile, 44.05 msec per render)
+[11:04:05] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 2900 tiles rendered (48.51 msec/tile, 44.07 msec per render)
+[11:04:07] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 900 tiles rendered (193.88 msec/tile, 187.43 msec per render)
+[11:04:11] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 3000 tiles rendered (48.74 msec/tile, 44.33 msec per render)
+[11:04:17] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 3100 tiles rendered (49.01 msec/tile, 44.64 msec per render)
+[11:04:24] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 3200 tiles rendered (49.06 msec/tile, 44.73 msec per render)
+[11:04:28] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 1000 tiles rendered (193.61 msec/tile, 187.25 msec per render)
+[11:04:30] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 3300 tiles rendered (49.25 msec/tile, 44.92 msec per render)
+[11:04:36] [Server thread/INFO]: Tile Render Statistics:
+[11:04:36] [Server thread/INFO]:   world.ct: processed=381, rendered=381, updated=169, transparent=0
+[11:04:36] [Server thread/INFO]:   world.flat: processed=8990, rendered=8990, updated=8810, transparent=2627
+[11:04:36] [Server thread/INFO]:   world.t: processed=10767, rendered=10767, updated=10439, transparent=263
+[11:04:36] [Server thread/INFO]:   world_nether.flat: processed=1819, rendered=1819, updated=1819, transparent=800
+[11:04:36] [Server thread/INFO]:   world_nether.nt: processed=3394, rendered=3394, updated=3394, transparent=9
+[11:04:36] [Server thread/INFO]:   world_the_end.flat: processed=576, rendered=576, updated=576, transparent=530
+[11:04:36] [Server thread/INFO]:   world_the_end.st: processed=1044, rendered=1044, updated=1044, transparent=684
+[11:04:36] [Server thread/INFO]:   TOTALS: processed=26971, rendered=26971, updated=26251, transparent=4913
+[11:04:36] [Server thread/INFO]:   Triggered update queue size: 0 + 0
+[11:04:36] [Server thread/INFO]:   Active render jobs: world world_the_end world_nether 
+[11:04:36] [Server thread/INFO]: Chunk Loading Statistics:
+[11:04:36] [Server thread/INFO]:   Cache hit rate: 65.66%
+[11:04:36] [Server thread/INFO]:   Chunks processed: Cached: count=1112103, 0.00 msec/chunk
+[11:04:36] [Server thread/INFO]:   Chunks processed: Already Loaded: count=85089, 30.39 msec/chunk
+[11:04:36] [Server thread/INFO]:   Chunks processed: Load Required: count=213575, 0.51 msec/chunk
+[11:04:36] [Server thread/INFO]:   Chunks processed: Not Generated: count=34672, 0.00 msec/chunk
+[11:04:36] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 3400 tiles rendered (49.40 msec/tile, 45.11 msec per render)
+[11:04:41] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 3500 tiles rendered (49.50 msec/tile, 45.21 msec per render)
+[11:04:47] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' in progress - 1100 tiles rendered (193.02 msec/tile, 186.86 msec per render)
+[11:04:48] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' in progress - 3600 tiles rendered (49.74 msec/tile, 45.48 msec per render)
+[11:09:58] [User Authenticator #3/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
+[11:09:59] [Server thread/INFO]: Erha joined the game
+[11:09:59] [Server thread/INFO]: Erha[/125.160.156.3:60138] logged in with entity id 7292 at ([world]81.30459301920621, 67.0, 158.41752382968966)
+[11:11:36] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[11:11:51] [User Authenticator #4/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[11:11:51] [Server thread/INFO]: anotherMIsa joined the game
+[11:11:51] [Server thread/INFO]: anotherMIsa[/125.164.17.248:6886] logged in with entity id 7570 at ([world]41.02334869600848, 63.0, 125.30787190308028)
+[11:12:29] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[11:20:09] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[11:20:09] [Server thread/INFO]: anotherMIsa left the game
+[11:20:14] [Dynmap Render Thread/INFO]: Full render of map 'nether' of 'world_nether' completed - 19980 tiles rendered (52.16 msec/map-tile, 50.23 msec per render)
+[11:20:14] [Dynmap Render Thread/INFO]: Full render of 'world_nether' finished.
+[11:21:48] [Dynmap Render Thread/INFO]: Full render of map 'the_end' of 'world_the_end' completed - 7870 tiles rendered (153.21 msec/map-tile, 150.90 msec per render)
+[11:21:48] [Dynmap Render Thread/INFO]: Full render of 'world_the_end' finished.
+[11:26:44] [User Authenticator #5/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[11:26:44] [Server thread/INFO]: anotherMIsa joined the game
+[11:26:44] [Server thread/INFO]: anotherMIsa[/125.164.19.74:7671] logged in with entity id 9636 at ([world]17.41674867899747, 74.0, 157.43471424074943)
+[11:34:47] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[11:34:47] [Server thread/INFO]: anotherMIsa left the game
+[11:37:54] [User Authenticator #6/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[11:37:55] [Server thread/INFO]: anotherMIsa joined the game
+[11:37:55] [Server thread/INFO]: anotherMIsa[/125.164.16.103:7934] logged in with entity id 11877 at ([world]22.593402849208104, 72.0, 154.52550894997705)
+[11:45:25] [Server thread/INFO]: Erha lost connection: Disconnected
+[11:45:25] [Server thread/INFO]: Erha left the game
+[11:45:27] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[11:45:31] [Server thread/INFO]: Tile Render Statistics:
+[11:45:31] [Server thread/INFO]:   world.ct: processed=632, rendered=632, updated=289, transparent=0
+[11:45:31] [Server thread/INFO]:   world.flat: processed=9314, rendered=9314, updated=9008, transparent=2627
+[11:45:31] [Server thread/INFO]:   world.t: processed=21824, rendered=21824, updated=21266, transparent=2155
+[11:45:31] [Server thread/INFO]:   world_nether.flat: processed=1819, rendered=1819, updated=1819, transparent=800
+[11:45:31] [Server thread/INFO]:   world_nether.nt: processed=19980, rendered=19980, updated=19980, transparent=9952
+[11:45:31] [Server thread/INFO]:   world_the_end.flat: processed=576, rendered=576, updated=576, transparent=530
+[11:45:31] [Server thread/INFO]:   world_the_end.st: processed=7870, rendered=7870, updated=7870, transparent=7509
+[11:45:31] [Server thread/INFO]:   TOTALS: processed=62015, rendered=62015, updated=60808, transparent=23573
+[11:45:31] [Server thread/INFO]:   Triggered update queue size: 0 + 0
+[11:45:31] [Server thread/INFO]:   Active render jobs: world 
+[11:45:31] [Server thread/INFO]: Chunk Loading Statistics:
+[11:45:31] [Server thread/INFO]:   Cache hit rate: 50.78%
+[11:45:31] [Server thread/INFO]:   Chunks processed: Cached: count=2625377, 0.00 msec/chunk
+[11:45:31] [Server thread/INFO]:   Chunks processed: Already Loaded: count=117212, 32.95 msec/chunk
+[11:45:31] [Server thread/INFO]:   Chunks processed: Load Required: count=398796, 0.50 msec/chunk
+[11:45:31] [Server thread/INFO]:   Chunks processed: Not Generated: count=814907, 0.00 msec/chunk
+[11:47:36] [User Authenticator #7/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
+[11:47:36] [Server thread/INFO]: Erha joined the game
+[11:47:36] [Server thread/INFO]: Erha[/125.160.156.3:50927] logged in with entity id 13422 at ([world]7.300000011920929, 29.0, 169.30000001192093)
+[11:48:45] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[11:48:45] [Server thread/INFO]: anotherMIsa left the game
+[11:53:51] [User Authenticator #8/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[11:53:51] [Server thread/INFO]: MrLION7 joined the game
+[11:53:51] [Server thread/INFO]: MrLION7[/103.194.175.70:54881] logged in with entity id 14242 at ([world]149.76249998807907, 64.0, 191.6320115989828)
+[11:54:54] [User Authenticator #9/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
+[11:54:54] [Server thread/INFO]: LordMax4581 joined the game
+[11:54:54] [Server thread/INFO]: LordMax4581[/127.0.0.1:55953] logged in with entity id 14498 at ([world]188.5, 111.0, 478.5)
+[11:56:06] [User Authenticator #10/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[11:56:06] [Server thread/INFO]: anotherMIsa joined the game
+[11:56:06] [Server thread/INFO]: anotherMIsa[/125.164.17.248:27625] logged in with entity id 15034 at ([world]42.71198088922984, 63.0, 127.12327906685178)
+[11:58:48] [Async Chat Thread - #2/INFO]: [Not Secure] <LordMax4581> bang dijual buku eficiency 3 sama unbreaking 3 jadi satu 6 diamond
+[11:59:16] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.2855072021484375
+[11:59:16] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.632110595703125
+[11:59:16] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.8365478515625
+[11:59:16] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.5405120849609375
+[11:59:16] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.336639404296875
+[12:00:09] [Async Chat Thread - #4/INFO]: [Not Secure] <Erha> Itu satu buku atau dua buku dah
+[12:00:09] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[12:00:14] [Async Chat Thread - #5/INFO]: [Not Secure] <LordMax4581> satu
+[12:00:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Erha> Diamond gw 4 doang tinggal, mau ga
+[12:00:54] [Async Chat Thread - #4/INFO]: [Not Secure] <LordMax4581> skip dh mas
+[12:01:21] [Async Chat Thread - #4/INFO]: [Not Secure] <Erha> Penonton kecewa
+[12:12:31] [Async Chat Thread - #6/INFO]: [Not Secure] <MrLION7> tuh kuncing banyak punya saha ?
+[12:12:39] [Async Chat Thread - #7/INFO]: [Not Secure] <anotherMIsa> adam?
+[12:12:47] [Async Chat Thread - #6/INFO]: [Not Secure] <MrLION7> RH?
+[12:13:23] [Async Chat Thread - #7/INFO]: [Not Secure] <anotherMIsa> ini kucing adam sih seinget aku
+[12:13:30] [Async Chat Thread - #6/INFO]: [Not Secure] <MrLION7> ok
+[12:13:41] [Async Chat Thread - #7/INFO]: [Not Secure] <anotherMIsa> waktu awal mulai dia tame kucing banyak
+[12:14:58] [Async Chat Thread - #8/INFO]: [Not Secure] <MrLION7> Isa do you know the shortcut to throw all same items in your inventory ?
+[12:15:07] [Async Chat Thread - #9/INFO]: [Not Secure] <anotherMIsa> drop items?
+[12:15:12] [Async Chat Thread - #9/INFO]: [Not Secure] <MrLION7> yeah
+[12:15:35] [Async Chat Thread - #8/INFO]: [Not Secure] <anotherMIsa> setau aku gak bisa? paling ctrl-q buat drop semua dalam satu slot?
+[12:16:00] [Async Chat Thread - #9/INFO]: [Not Secure] <MrLION7> okok thx its what I need sort of
+[12:16:14] [Async Chat Thread - #9/INFO]: [Not Secure] <anotherMIsa> okey
+[12:17:54] [Async Chat Thread - #10/INFO]: [Not Secure] <MrLION7> pinjam sword fire aspect for making stake ? plz
+[12:18:12] [Async Chat Thread - #11/INFO]: [Not Secure] <MrLION7> thx u
+[12:18:17] [Async Chat Thread - #11/INFO]: [Not Secure] <anotherMIsa> sip
+[12:20:00] [Async Chat Thread - #12/INFO]: [Not Secure] <LordMax4581> yan gw jual fire aspect 2 5 diamond mau gk?
+[12:20:07] [Async Chat Thread - #12/INFO]: [Not Secure] <MrLION7> ga
+[12:20:18] [Async Chat Thread - #12/INFO]: [Not Secure] <MrLION7> sword diamond ?
+[12:20:25] [Async Chat Thread - #12/INFO]: [Not Secure] <LordMax4581> buku
+[12:20:29] [Async Chat Thread - #12/INFO]: [Not Secure] <MrLION7> nope
+[12:20:46] [Async Chat Thread - #13/INFO]: [Not Secure] <MrLION7> anda coba coba bisnis perbukuan ya mas ?
+[12:20:51] [Async Chat Thread - #13/INFO]: [Not Secure] <LordMax4581> yes
+[12:20:58] [Async Chat Thread - #13/INFO]: [Not Secure] <MrLION7> we are rivals then
+[12:22:38] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.4348602294921875
+[12:22:38] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.9661102294921875
+[12:22:38] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.631988525390625
+[12:22:38] [Server thread/WARN]: Horse (vehicle of LordMax4581) moved wrongly! 0.402252197265625
+[12:22:50] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:22:50] [Server thread/INFO]: anotherMIsa left the game
+[12:23:34] [Server thread/INFO]: Saving the game (this may take a moment!)
+[12:23:34] [Server thread/INFO]: Saved the game
