@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-01-29 16:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-01-25 08:45:44 +0000"
@@ -248,6 +254,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-01-25 08:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-01-29 10:11:52 +0000"
     },
     "done": true
   },
@@ -1270,12 +1282,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-01-29 10:19:37 +0000",
       "minecraft:taiga": "2023-01-25 09:34:26 +0000",
+      "minecraft:deep_ocean": "2023-01-29 10:35:49 +0000",
+      "minecraft:frozen_river": "2023-01-29 10:28:04 +0000",
       "minecraft:beach": "2023-01-25 14:45:34 +0000",
+      "minecraft:dark_forest": "2023-01-29 10:11:25 +0000",
       "minecraft:river": "2023-01-25 07:56:00 +0000",
+      "minecraft:snowy_plains": "2023-01-29 10:28:01 +0000",
+      "minecraft:stony_shore": "2023-01-29 10:27:00 +0000",
       "minecraft:dripstone_caves": "2023-01-25 08:24:11 +0000",
+      "minecraft:snowy_taiga": "2023-01-29 10:27:51 +0000",
       "minecraft:cold_ocean": "2023-01-26 03:16:39 +0000",
       "minecraft:forest": "2023-01-25 08:19:59 +0000",
+      "minecraft:deep_cold_ocean": "2023-01-29 10:35:44 +0000",
+      "minecraft:frozen_ocean": "2023-01-29 10:29:15 +0000",
+      "minecraft:ocean": "2023-01-29 10:14:08 +0000",
+      "minecraft:old_growth_spruce_taiga": "2023-01-29 10:23:46 +0000",
+      "minecraft:snowy_beach": "2023-01-29 10:28:33 +0000",
+      "minecraft:flower_forest": "2023-01-29 10:15:32 +0000",
+      "minecraft:old_growth_birch_forest": "2023-01-29 10:10:42 +0000",
       "minecraft:meadow": "2023-01-25 08:23:11 +0000",
       "minecraft:windswept_gravelly_hills": "2023-01-25 07:05:22 +0000",
       "minecraft:plains": "2023-01-25 07:04:31 +0000"
@@ -1450,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-01-29 14:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2023-01-25 10:43:27 +0000",
@@ -1509,6 +1541,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2023-01-26 02:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-01-29 16:33:58 +0000"
     },
     "done": true
   },
@@ -2292,6 +2330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-01-29 10:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-01-25 14:50:54 +0000"
@@ -2439,6 +2483,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2023-01-27 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-01-29 14:34:00 +0000"
     },
     "done": true
   },
@@ -2817,6 +2867,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2023-01-26 12:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2023-01-29 16:29:27 +0000"
     },
     "done": true
   },
