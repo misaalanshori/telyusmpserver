@@ -655,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2023-01-31 14:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-01-25 11:49:51 +0000"
@@ -1700,6 +1706,7 @@
     "criteria": {
       "cooked_porkchop": "2023-01-30 08:48:19 +0000",
       "cooked_beef": "2023-01-25 11:10:30 +0000",
+      "beef": "2023-01-31 14:37:45 +0000",
       "apple": "2023-01-25 11:39:49 +0000",
       "potato": "2023-01-28 02:29:38 +0000",
       "bread": "2023-01-26 06:19:44 +0000",
@@ -2602,6 +2609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2023-01-31 14:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2023-01-25 11:27:02 +0000"
@@ -2785,6 +2798,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_yellow_dye": "2023-01-25 13:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2023-01-31 14:37:39 +0000"
     },
     "done": true
   },
