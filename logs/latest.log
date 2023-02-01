@@ -1,579 +1,145 @@
-[00:15:33] [Server thread/INFO]: anotherMIsa lost connection: Kicked by an operator
-[00:15:33] [Server thread/INFO]: anotherMIsa left the game
-[00:15:33] [Server thread/INFO]: Kicked anotherMIsa: Kicked by an operator
-[00:16:09] [User Authenticator #99/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[00:16:09] [Server thread/INFO]: anotherMIsa joined the game
-[00:16:09] [Server thread/INFO]: anotherMIsa[/125.164.16.103:9248] logged in with entity id 737854 at ([world]3723.8083693483895, 64.0, 1221.207965631808)
-[00:29:50] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[00:29:50] [Server thread/INFO]: anotherMIsa left the game
-[01:38:28] [User Authenticator #100/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[01:38:28] [Server thread/INFO]: anotherMIsa joined the game
-[01:38:28] [Server thread/INFO]: anotherMIsa[/125.164.19.74:6956] logged in with entity id 748413 at ([world]133.691778702833, 64.0, 198.00095015189345)
-[01:46:03] [Server thread/INFO]: anotherMIsa has made the advancement [Bee Our Guest]
-[01:46:32] [Server thread/INFO]: anotherMIsa has made the advancement [Sticky Situation]
-[02:02:53] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[02:02:53] [Server thread/INFO]: anotherMIsa left the game
-[02:07:47] [User Authenticator #101/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[02:07:47] [Server thread/INFO]: anotherMIsa joined the game
-[02:07:47] [Server thread/INFO]: anotherMIsa[/125.164.18.146:10459] logged in with entity id 752284 at ([world]14.28504679085841, 73.0, 166.77501633201643)
-[02:08:06] [Server thread/INFO]: anotherMIsa issued server command: /ping
-[02:08:08] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[02:08:08] [Server thread/INFO]: anotherMIsa left the game
-[02:08:15] [User Authenticator #101/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[02:08:15] [Server thread/INFO]: anotherMIsa joined the game
-[02:08:15] [Server thread/INFO]: anotherMIsa[/125.164.21.158:14444] logged in with entity id 752360 at ([world]10.79543417495603, 75.0, 168.78833678417524)
-[02:22:56] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[02:22:56] [Server thread/INFO]: anotherMIsa left the game
-[02:33:35] [User Authenticator #102/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[02:33:35] [Server thread/INFO]: anotherMIsa joined the game
-[02:33:35] [Server thread/INFO]: anotherMIsa[/125.164.22.251:12927] logged in with entity id 754774 at ([world]37.96071821325144, 63.0, 127.21716923449094)
-[02:48:12] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[02:48:12] [Server thread/INFO]: anotherMIsa left the game
-[03:18:41] [User Authenticator #103/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
-[03:18:41] [Server thread/INFO]: Erha joined the game
-[03:18:41] [Server thread/INFO]: Erha[/125.160.156.3:54094] logged in with entity id 756831 at ([world]210.1607642259077, 70.0, 244.68802136819292)
-[03:19:44] [User Authenticator #104/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[03:19:44] [Server thread/INFO]: anotherMIsa joined the game
-[03:19:44] [Server thread/INFO]: anotherMIsa[/125.164.22.251:20599] logged in with entity id 757144 at ([world]36.97717127721554, 63.0, 130.37161511935332)
-[03:24:34] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[03:24:34] [Server thread/INFO]: anotherMIsa left the game
-[03:43:35] [User Authenticator #105/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[03:43:35] [Server thread/INFO]: anotherMIsa joined the game
-[03:43:35] [Server thread/INFO]: anotherMIsa[/125.164.22.251:22739] logged in with entity id 760461 at ([world]45.21494246220748, 63.0, 123.92299516150278)
-[03:43:43] [Async Chat Thread - #110/INFO]: [Not Secure] <anotherMIsa> rh
-[03:43:46] [Async Chat Thread - #110/INFO]: [Not Secure] <anotherMIsa> masih ada slime?
-[03:43:56] [Async Chat Thread - #110/INFO]: [Not Secure] <Erha> Berapa?
-[03:43:58] [Async Chat Thread - #111/INFO]: [Not Secure] <anotherMIsa> 2
-[03:44:30] [Async Chat Thread - #111/INFO]: [Not Secure] <Erha> Ada nih, gw sedang di fishing farm
-[03:44:33] [Async Chat Thread - #111/INFO]: [Not Secure] <anotherMIsa> oke
-[03:45:02] [Async Chat Thread - #111/INFO]: [Not Secure] <anotherMIsa> okee makasih
-[03:45:11] [Async Chat Thread - #111/INFO]: [Not Secure] <Erha> Sip
-[03:45:32] [Async Chat Thread - #111/INFO]: [Not Secure] <anotherMIsa> btw aku boleh minta gak ini fishing rod hasil fishing nya?
-[03:52:14] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[03:52:14] [Server thread/INFO]: anotherMIsa left the game
-[03:53:02] [User Authenticator #106/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[03:53:02] [Server thread/INFO]: anotherMIsa joined the game
-[03:53:02] [Server thread/INFO]: anotherMIsa[/125.164.23.35:21832] logged in with entity id 762113 at ([world]125.7947968833301, 63.0, 220.70912305039082)
-[04:00:27] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[04:00:27] [Server thread/INFO]: anotherMIsa left the game
-[04:02:17] [User Authenticator #107/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[04:02:17] [Server thread/INFO]: anotherMIsa joined the game
-[04:02:17] [Server thread/INFO]: anotherMIsa[/125.164.17.248:13099] logged in with entity id 763775 at ([world]99.00194854538168, 67.0, 203.72316385518872)
-[04:13:39] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[04:13:39] [Server thread/INFO]: anotherMIsa left the game
-[04:15:39] [User Authenticator #108/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[04:15:39] [Server thread/INFO]: anotherMIsa joined the game
-[04:15:39] [Server thread/INFO]: anotherMIsa[/125.164.22.251:8333] logged in with entity id 765829 at ([world]132.15445379827457, 73.0, 248.98702723285115)
-[04:16:54] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[04:16:54] [Server thread/INFO]: anotherMIsa left the game
-[04:19:53] [User Authenticator #109/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[04:19:53] [Server thread/INFO]: anotherMIsa joined the game
-[04:19:53] [Server thread/INFO]: anotherMIsa[/125.164.20.78:12598] logged in with entity id 766390 at ([world]136.7017950160249, 69.0, 249.3366936346125)
-[04:20:15] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[04:20:15] [Server thread/INFO]: anotherMIsa left the game
-[04:22:14] [User Authenticator #110/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[04:22:14] [Server thread/INFO]: anotherMIsa joined the game
-[04:22:14] [Server thread/INFO]: anotherMIsa[/125.164.18.146:23745] logged in with entity id 766715 at ([world]136.00601013172457, 69.0, 244.26306051179301)
-[04:23:25] [Server thread/WARN]: anotherMIsa moved wrongly!
-[04:24:04] [Server thread/WARN]: anotherMIsa moved wrongly!
-[04:24:04] [Server thread/WARN]: anotherMIsa moved wrongly!
-[04:24:05] [Server thread/WARN]: anotherMIsa moved wrongly!
-[04:47:36] [Server thread/INFO]: [WEB] MrLION7: what are you doing Isa ?
-[04:47:44] [Async Chat Thread - #112/INFO]: [Not Secure] <anotherMIsa> bikin bamboo farm buat auto smelter
-[04:48:14] [Server thread/INFO]: [WEB] MrLION7: ohh nice one
-[04:48:27] [Async Chat Thread - #112/INFO]: [Not Secure] <anotherMIsa> do you have extra powered rails?
-[04:48:31] [Async Chat Thread - #112/INFO]: [Not Secure] <anotherMIsa> i have ran out of gold
-[04:48:46] [Server thread/INFO]: [WEB] MrLION7: I don't know 
-[04:48:50] [Async Chat Thread - #112/INFO]: [Not Secure] <anotherMIsa> okay
-[04:54:32] [Server thread/INFO]: [WEB] MrLION7: is it me or the ticks of the clock is passing very quickly ,
-[04:54:43] [Server thread/INFO]: [WEB] MrLION7: ?
-[04:55:18] [Async Chat Thread - #114/INFO]: [Not Secure] <anotherMIsa> the tps is correct (20), but I do feel like its kinda fast
-[04:59:09] [Server thread/INFO]: [WEB] MrLION7: iron farm produktif  RH ?
-[04:59:23] [Async Chat Thread - #116/INFO]: [Not Secure] <Erha> Ya mayan
-[05:45:03] [User Authenticator #111/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
-[05:45:03] [Server thread/INFO]: LordMax4581 joined the game
-[05:45:03] [Server thread/INFO]: LordMax4581[/127.0.0.1:40365] logged in with entity id 785476 at ([world]-249.67892, 70.0, -2710.2322)
-[05:53:43] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[05:53:43] [Server thread/INFO]: anotherMIsa left the game
-[06:08:54] [Server thread/WARN]: LordMax4581 moved wrongly!
-[06:19:14] [User Authenticator #112/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[06:19:14] [Server thread/INFO]: Regyyy joined the game
-[06:19:14] [Server thread/INFO]: Regyyy[/180.254.136.37:58758] logged in with entity id 794948 at ([world]110.83163679722227, 69.0, 88.08211887792473)
-[06:19:25] [Async Chat Thread - #118/INFO]: [Not Secure] <Regyyy> hello people
-[06:19:30] [Async Chat Thread - #118/INFO]: [Not Secure] <LordMax4581> elo
-[06:20:40] [Async Chat Thread - #120/INFO]: [Not Secure] <Regyyy> ada yang punya spare string kah
-[06:20:45] [Async Chat Thread - #120/INFO]: [Not Secure] <LordMax4581> gk
-[06:21:01] [Async Chat Thread - #121/INFO]: [Not Secure] <LordMax4581> mau bikin scaf y
-[06:21:06] [Async Chat Thread - #121/INFO]: [Not Secure] <Regyyy> iyes
-[06:32:46] [User Authenticator #113/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[06:32:46] [Server thread/INFO]: anotherMIsa joined the game
-[06:32:46] [Server thread/INFO]: anotherMIsa[/125.164.18.146:3341] logged in with entity id 801289 at ([world]123.44638679115481, 69.0, 250.6187599325638)
-[06:33:20] [Server thread/WARN]: anotherMIsa moved too quickly! 11.656274280595937,-1.0,-0.041269752906117674
-[06:33:37] [Server thread/WARN]: anotherMIsa moved too quickly! -18.089954921719084,3.0,-15.087052959055455
-[06:33:46] [Async Chat Thread - #122/INFO]: [Not Secure] <anotherMIsa> hmm nice ping
-[06:37:22] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[06:37:22] [Server thread/INFO]: anotherMIsa left the game
-[06:37:34] [User Authenticator #114/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[06:37:34] [Server thread/INFO]: anotherMIsa joined the game
-[06:37:34] [Server thread/INFO]: anotherMIsa[/125.164.20.78:29378] logged in with entity id 802960 at ([world]161.66490035344052, 63.0, 231.25133615381787)
-[06:55:58] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[06:55:58] [Server thread/INFO]: Regyyy left the game
-[06:56:29] [User Authenticator #115/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[06:56:29] [Server thread/INFO]: Regyyy joined the game
-[06:56:29] [Server thread/INFO]: Regyyy[/180.254.136.37:57904] logged in with entity id 810719 at ([world]59.004963998343975, 77.0, 115.45857008871674)
-[07:02:56] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:02:56] [Server thread/INFO]: anotherMIsa left the game
-[07:05:56] [User Authenticator #116/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:05:56] [Server thread/INFO]: anotherMIsa joined the game
-[07:05:56] [Server thread/INFO]: anotherMIsa[/125.164.21.158:32200] logged in with entity id 814736 at ([world]36.57175404616474, 66.0, 206.9876041990803)
-[07:20:29] [Async Chat Thread - #124/INFO]: [Not Secure] <Regyyy> isa bayar ni server berapa
-[07:20:41] [Async Chat Thread - #124/INFO]: [Not Secure] <anotherMIsa> $147/bulan kalo gak salah
-[07:20:52] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> hah
-[07:20:57] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> sejuta kah
-[07:21:01] [Async Chat Thread - #124/INFO]: [Not Secure] <Regyyy> men
-[07:21:06] [Async Chat Thread - #124/INFO]: [Not Secure] <anotherMIsa> iya kan kemaren pindah ke Google Cloud
-[07:21:15] [Async Chat Thread - #124/INFO]: [Not Secure] <anotherMIsa> ini akun google cloud adam
-[07:21:26] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> buset gimana tuh bayarnya
-[07:21:32] [Async Chat Thread - #125/INFO]: [Not Secure] <anotherMIsa> tanya adam
-[07:21:51] [Async Chat Thread - #125/INFO]: [Not Secure] <LordMax4581> trial katanya reg
-[07:22:00] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> trial buat sebulan gitu?
-[07:22:05] [Async Chat Thread - #125/INFO]: [Not Secure] <LordMax4581> iya
-[07:22:13] [Async Chat Thread - #125/INFO]: [Not Secure] <LordMax4581> kita kan pt wokap ada 12
-[07:22:18] [Async Chat Thread - #125/INFO]: [Not Secure] <anotherMIsa> wkwk Google Cloud dapet free trial $300, sekitar 4jt
-[07:22:20] [Async Chat Thread - #125/INFO]: [Not Secure] <LordMax4581> setahun lebih bisa
-[07:22:53] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> confused unga bunga
-[07:23:18] [Async Chat Thread - #125/INFO]: [Not Secure] <LordMax4581> baik gugel wkwkw
-[07:23:34] [Async Chat Thread - #124/INFO]: [Not Secure] <anotherMIsa> pokonya akun Google Cloud baru dikasih kredit $300 buat dipake
-[07:23:58] [Async Chat Thread - #124/INFO]: [Not Secure] <Regyyy> ohhh
-[07:24:12] [Async Chat Thread - #124/INFO]: [Not Secure] <Regyyy> btw beli ni server dimana sa
-[07:24:15] [Async Chat Thread - #124/INFO]: [Not Secure] <Regyyy> server mc
-[07:24:25] [Async Chat Thread - #124/INFO]: [Not Secure] <anotherMIsa> di Google Cloud region Singapore
-[07:24:31] [Async Chat Thread - #124/INFO]: [Not Secure] <Regyyy> hoo
-[07:24:47] [Async Chat Thread - #124/INFO]: [Not Secure] <anotherMIsa> asalnya mau region Jakarta, tapi gak dapet spek yang dicari
-[07:25:16] [Async Chat Thread - #124/INFO]: [Not Secure] <Regyyy> basically bikin ni server
-[07:25:20] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> "gratis"??
-[07:25:22] [Async Chat Thread - #125/INFO]: [Not Secure] <anotherMIsa> iya
-[07:25:28] [Async Chat Thread - #124/INFO]: [Not Secure] <LordMax4581> yes
-[07:25:29] [Async Chat Thread - #124/INFO]: [Not Secure] <Regyyy> karena dapat saldo $300
-[07:25:35] [Async Chat Thread - #124/INFO]: [Not Secure] <anotherMIsa> cuma perlu akun google sama kartu debit/kredit
-[07:25:53] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> berarti tahan ampe 2 bulan doang kalau beli server kan
-[07:26:06] [Async Chat Thread - #125/INFO]: [Not Secure] <anotherMIsa> iya
-[07:26:21] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> sokka wakarimashita
-[07:26:24] [Async Chat Thread - #125/INFO]: [Not Secure] <Regyyy> thank uu
-[07:26:52] [Async Chat Thread - #124/INFO]: [Not Secure] <anotherMIsa> 👍
-[07:28:47] [Async Chat Thread - #126/INFO]: [Not Secure] <Regyyy> itu kaptennya
-[07:28:56] [Async Chat Thread - #126/INFO]: [Not Secure] <anotherMIsa> mau raid?
-[07:29:02] [Async Chat Thread - #127/INFO]: [Not Secure] <LordMax4581> cuk
-[07:29:03] [Async Chat Thread - #127/INFO]: [Not Secure] <anotherMIsa> dari mereka kan dapet raid
-[07:29:11] [Async Chat Thread - #127/INFO]: [Not Secure] <Regyyy> ni gw bawa keluar desa
-[07:29:24] [Async Chat Thread - #127/INFO]: [Not Secure] <Regyyy> mau apa gak
-[07:29:34] [Async Chat Thread - #127/INFO]: [Not Secure] <Regyyy> kalau gk gw bunuh nih wkwk
-[07:29:34] [Async Chat Thread - #127/INFO]: [Not Secure] <anotherMIsa> mals sih
-[07:29:39] [Async Chat Thread - #127/INFO]: [Not Secure] <LordMax4581> resiko ditanggung pemenang
-[07:30:09] [Server thread/INFO]: Regyyy has made the advancement [Voluntary Exile]
-[07:30:20] [Server thread/INFO]: Regyyy has made the advancement [Ol' Betsy]
-[07:42:03] [Server thread/WARN]: LordMax4581 moved wrongly!
-[07:42:03] [Server thread/WARN]: anotherMIsa moved wrongly!
-[07:42:03] [Server thread/WARN]: anotherMIsa moved wrongly!
-[07:43:58] [Async Chat Thread - #128/INFO]: [Not Secure] <Regyyy> tes
-[07:44:03] [Async Chat Thread - #128/INFO]: [Not Secure] <anotherMIsa> masuk
-[07:44:09] [Async Chat Thread - #129/INFO]: [Not Secure] <Regyyy> gol
-[07:44:13] [Async Chat Thread - #128/INFO]: [Not Secure] <LordMax4581> jir
-[07:44:29] [Async Chat Thread - #129/INFO]: [Not Secure] <anotherMIsa> what
-[07:44:34] [Async Chat Thread - #129/INFO]: [Not Secure] <Regyyy> nandemonai
-[07:44:45] [Async Chat Thread - #129/INFO]: [Not Secure] <LordMax4581> wibu mandi dlu wibu
-[07:44:50] [Async Chat Thread - #129/INFO]: [Not Secure] <Regyyy> sudah anjir
-[07:53:31] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:53:31] [Server thread/INFO]: anotherMIsa left the game
-[08:07:13] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[08:07:13] [Server thread/INFO]: Regyyy left the game
-[08:09:59] [User Authenticator #117/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[08:09:59] [Server thread/INFO]: ARF1407 joined the game
-[08:09:59] [Server thread/INFO]: ARF1407[/180.243.127.156:49246] logged in with entity id 839887 at ([world]108.45265243625897, 69.0, 117.05904128825937)
-[08:10:44] [Server thread/WARN]: ARF1407 was kicked due to keepalive timeout!
-[08:10:44] [Server thread/INFO]: ARF1407 lost connection: Timed out
-[08:10:44] [Server thread/INFO]: ARF1407 left the game
-[08:11:18] [User Authenticator #118/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[08:11:18] [Server thread/INFO]: ARF1407 joined the game
-[08:11:18] [Server thread/INFO]: ARF1407[/180.243.127.156:49267] logged in with entity id 840258 at ([world]184.06499658290065, 64.0, 168.7648772937889)
-[08:12:03] [Server thread/WARN]: ARF1407 was kicked due to keepalive timeout!
-[08:12:03] [Server thread/INFO]: ARF1407 lost connection: Timed out
-[08:12:03] [Server thread/INFO]: ARF1407 left the game
-[08:15:35] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.28380521634471734
-[08:15:35] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.4623512074754217
-[08:15:35] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.6833247685021888
-[08:15:35] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.26428717996623163
-[08:15:36] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.27580338445841335
-[08:15:42] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.5820492489706339
-[08:15:42] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.38547894129260385
-[08:16:19] [Server thread/WARN]: LordMax4581 moved wrongly!
-[08:22:07] [Server thread/WARN]: LordMax4581 moved wrongly!
-[08:22:18] [Server thread/WARN]: LordMax4581 moved wrongly!
-[08:32:14] [User Authenticator #119/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:32:14] [Server thread/INFO]: anotherMIsa joined the game
-[08:32:14] [Server thread/INFO]: anotherMIsa[/125.164.17.248:17594] logged in with entity id 846839 at ([world]12.106517603398984, 56.0, 253.7696561498418)
-[08:35:08] [Async Chat Thread - #130/INFO]: [Not Secure] <anotherMIsa> tidur dong seseorang
-[08:35:35] [Async Chat Thread - #130/INFO]: [Not Secure] <LordMax4581> mining
-[08:35:40] [Async Chat Thread - #131/INFO]: [Not Secure] <anotherMIsa> oke
-[08:41:53] [Server thread/INFO]: LordMax4581 has made the advancement [What a Deal!]
-[08:42:20] [Async Chat Thread - #132/INFO]: [Not Secure] <Erha> Cari mending max
-[08:42:27] [Async Chat Thread - #134/INFO]: [Not Secure] <LordMax4581> farmer cuk ini
-[08:46:25] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[08:46:25] [Server thread/INFO]: anotherMIsa left the game
-[08:53:10] [User Authenticator #120/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:53:10] [Server thread/INFO]: anotherMIsa joined the game
-[08:53:10] [Server thread/INFO]: anotherMIsa[/125.164.23.35:3345] logged in with entity id 853507 at ([world]38.56566849800876, 66.0, 217.69999998807907)
-[09:09:09] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:09:09] [Server thread/INFO]: anotherMIsa left the game
-[09:16:50] [User Authenticator #121/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[09:16:50] [Server thread/INFO]: ARF1407 joined the game
-[09:16:50] [Server thread/INFO]: ARF1407[/180.243.127.156:58853] logged in with entity id 861725 at ([world]190.431905907252, 63.0, 172.67165063319302)
-[09:17:35] [Server thread/WARN]: ARF1407 was kicked due to keepalive timeout!
-[09:17:35] [Server thread/INFO]: ARF1407 lost connection: Timed out
-[09:17:35] [Server thread/INFO]: ARF1407 left the game
-[09:18:20] [User Authenticator #122/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[09:18:20] [Server thread/INFO]: ARF1407 joined the game
-[09:18:20] [Server thread/INFO]: ARF1407[/180.243.127.156:58892] logged in with entity id 862085 at ([world]193.32745379829902, 59.087775125023164, 175.56205173181945)
-[09:18:50] [Server thread/INFO]: ARF1407 lost connection: Disconnected
-[09:18:50] [Server thread/INFO]: ARF1407 left the game
-[09:20:47] [Server thread/WARN]: LordMax4581 moved wrongly!
-[09:20:59] [User Authenticator #123/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:21:00] [Server thread/INFO]: anotherMIsa joined the game
-[09:21:00] [Server thread/INFO]: anotherMIsa[/125.164.23.35:7169] logged in with entity id 863531 at ([world]99.9484012440295, 65.0, 211.92962874557026)
-[09:21:07] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:21:07] [Server thread/INFO]: anotherMIsa left the game
-[09:22:29] [User Authenticator #124/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:22:29] [Server thread/INFO]: anotherMIsa joined the game
-[09:22:29] [Server thread/INFO]: anotherMIsa[/125.164.17.248:16242] logged in with entity id 864300 at ([world]93.56306466956188, 66.0, 207.42702105882387)
-[09:23:02] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:23:02] [Server thread/INFO]: anotherMIsa left the game
-[09:24:22] [User Authenticator #125/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[09:24:22] [Server thread/INFO]: ARF1407 joined the game
-[09:24:22] [Server thread/INFO]: ARF1407[/180.243.127.156:59235] logged in with entity id 865070 at ([world]213.30328596528796, 71.0, 208.46659874204224)
-[09:24:26] [Server thread/WARN]: LordMax4581 moved wrongly!
-[09:24:30] [User Authenticator #125/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:24:30] [Server thread/INFO]: anotherMIsa joined the game
-[09:24:30] [Server thread/INFO]: anotherMIsa[/125.164.17.248:9247] logged in with entity id 865102 at ([world]52.55018357998925, 68.0, 175.50599307201773)
-[09:24:52] [Async Chat Thread - #135/INFO]: [Not Secure] <ARF1407> hoi
-[09:24:54] [Async Chat Thread - #135/INFO]: [Not Secure] <ARF1407> nah
-[09:24:57] [Async Chat Thread - #135/INFO]: [Not Secure] <ARF1407> baru masuk
-[09:24:57] [Async Chat Thread - #136/INFO]: [Not Secure] <anotherMIsa> nice
-[09:25:31] [Async Chat Thread - #136/INFO]: [Not Secure] <anotherMIsa> ada yang punya banyak glass/sand?
-[09:25:36] [Async Chat Thread - #136/INFO]: [Not Secure] <ARF1407> bagi cobblestone
-[09:25:42] [Async Chat Thread - #136/INFO]: [Not Secure] <anotherMIsa> baru habis
-[09:25:50] [Async Chat Thread - #136/INFO]: [Not Secure] <anotherMIsa> ada deh dikit
-[09:26:02] [Async Chat Thread - #136/INFO]: [Not Secure] <ARF1407> udah
-[09:26:04] [Async Chat Thread - #135/INFO]: [Not Secure] <anotherMIsa> oke
-[09:26:06] [Async Chat Thread - #135/INFO]: [Not Secure] <ARF1407> pake deepslate aja
-[09:29:37] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:29:37] [Server thread/INFO]: anotherMIsa left the game
-[09:32:32] [Server thread/WARN]: LordMax4581 moved wrongly!
-[09:36:19] [Server thread/INFO]: LordMax4581 lost connection: Disconnected
-[09:36:19] [Server thread/INFO]: LordMax4581 left the game
-[09:36:49] [User Authenticator #126/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
-[09:36:49] [Server thread/INFO]: LordMax4581 joined the game
-[09:36:49] [Server thread/INFO]: LordMax4581[/127.0.0.1:46091] logged in with entity id 869136 at ([world]-251.2377, 70.0, -2710.462)
-[09:37:37] [User Authenticator #126/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:37:37] [Server thread/INFO]: anotherMIsa joined the game
-[09:37:37] [Server thread/INFO]: anotherMIsa[/125.164.22.251:1347] logged in with entity id 869510 at ([world]-121.51632462213043, 64.0, 18.77881857862923)
-[09:38:16] [Async Chat Thread - #137/INFO]: [Not Secure] <LordMax4581> gk bisa bikin composter y？
-[09:38:27] [Async Chat Thread - #138/INFO]: [Not Secure] <anotherMIsa> bisa harusnya?
-[09:38:45] [Server thread/INFO]: ARF1407 lost connection: Disconnected
-[09:38:45] [Server thread/INFO]: ARF1407 left the game
-[09:38:48] [Async Chat Thread - #138/INFO]: [Not Secure] <LordMax4581> apa si resepnya gk nemu disini
-[09:38:56] [Async Chat Thread - #138/INFO]: [Not Secure] <anotherMIsa> ubah mode ui kamu ke classic
-[09:39:12] [Async Chat Thread - #138/INFO]: [Not Secure] <anotherMIsa> biar pake crafting grid
-[09:39:29] [Async Chat Thread - #138/INFO]: [Not Secure] <LordMax4581> slab astaga
-[09:39:45] [Async Chat Thread - #137/INFO]: [Not Secure] <anotherMIsa> wkw
-[09:41:47] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:41:47] [Server thread/INFO]: anotherMIsa left the game
-[09:45:23] [User Authenticator #127/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:45:23] [Server thread/INFO]: anotherMIsa joined the game
-[09:45:23] [Server thread/INFO]: anotherMIsa[/125.164.18.146:29462] logged in with entity id 872512 at ([world]-111.53789598651433, 59.0, 17.42955074265623)
-[09:53:17] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:53:17] [Server thread/INFO]: anotherMIsa left the game
-[09:54:25] [User Authenticator #128/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:54:25] [Server thread/INFO]: anotherMIsa joined the game
-[09:54:25] [Server thread/INFO]: anotherMIsa[/125.164.18.146:25386] logged in with entity id 875795 at ([world]122.82829870832836, 67.67647087614428, 241.26617151570835)
-[10:01:50] [Server thread/INFO]: LordMax4581 lost connection: Disconnected
-[10:01:50] [Server thread/INFO]: LordMax4581 left the game
-[10:02:21] [User Authenticator #129/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
-[10:02:21] [Server thread/INFO]: LordMax4581 joined the game
-[10:02:21] [Server thread/INFO]: LordMax4581[/127.0.0.1:60609] logged in with entity id 878495 at ([world]-250.6458, 66.0, -2708.1636)
-[10:02:34] [Server thread/WARN]: LordMax4581 moved wrongly!
-[10:08:42] [Server thread/WARN]: LordMax4581 moved wrongly!
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -15.656280517578125,0.0,-12.857666015625
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -15.90667724609375,0.0,-13.066162109375
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.157135009765625,0.0,-13.2744140625
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.407623291015625,0.0,-13.482666015625
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.65814208984375,0.0,-13.69091796875
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.90869140625,0.0,-13.89892578125
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -17.159271240234375,0.0,-14.10693359375
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -17.409881591796875,0.0,-14.31494140625
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -17.6605224609375,0.0,-14.52294921875
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -17.911163330078125,0.0,-14.73095703125
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -18.161834716796875,0.0,-14.93896484375
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -18.412506103515625,0.0,-15.14697265625
-[10:16:07] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -18.663177490234375,0.0,-15.35498046875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -11.72528076171875,0.0,-16.4384765625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -11.914398193359375,0.0,-16.70361328125
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -12.103515625,0.0,-16.96875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -12.292633056640625,0.0,-17.23388671875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -12.48175048828125,0.0,-17.4990234375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -12.670867919921875,0.0,-17.76416015625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -12.8599853515625,0.0,-18.029296875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -13.049102783203125,0.0,-18.29443359375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -13.23822021484375,0.0,-18.5595703125
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -13.427337646484375,0.0,-18.82470703125
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -13.616455078125,0.0,-19.08984375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -13.805572509765625,0.0,-19.35498046875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -13.99468994140625,0.0,-19.6201171875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -14.183807373046875,0.0,-19.88525390625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -14.3729248046875,0.0,-20.150390625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -14.562042236328125,0.0,-20.41552734375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -14.75115966796875,0.0,-20.6806640625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -14.940277099609375,0.0,-20.94580078125
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -15.12939453125,0.0,-21.2109375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -15.318511962890625,0.0,-21.47607421875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -15.50762939453125,0.0,-21.7412109375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -15.696746826171875,0.0,-22.00634765625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -15.8858642578125,0.0,-22.271484375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.074981689453125,0.0,-22.53662109375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.26409912109375,0.0,-22.8017578125
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.453216552734375,0.0,-23.06689453125
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.633056640625,0.0,-23.319580078125
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.800323486328125,0.0,-23.556396484375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -16.95440673828125,0.0,-23.777587890625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -17.095672607421875,0.0,-23.985107421875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -17.224761962890625,0.0,-24.181640625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.355804443359375,0.0,-18.383544921875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.407073974609375,0.0,-18.7265625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.460662841796875,0.0,-19.068359375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.516632080078125,0.0,-19.408203125
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.57501220703125,0.0,-19.745849609375
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.63568115234375,0.0,-20.0810546875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.698486328125,0.0,-20.41357421875
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.763214111328125,0.0,-20.7431640625
-[10:16:37] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved too quickly! -8.82977294921875,0.0,-21.0703125
-[10:19:24] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.2793227513320744
-[10:19:25] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.5260998434387147
-[10:19:25] [Server thread/WARN]: Boat (vehicle of LordMax4581) moved wrongly! 0.4001829014159739
-[10:22:02] [Server thread/INFO]: Villager EntityVillager['root'/878502, uuid='8f4a3fb8-deb3-477c-addb-d789dcd66b31', l='ServerLevel[world]', x=-260.70, y=77.00, z=-2722.30, cpos=[-17, -171], tl=294290, v=true] died, message: 'root was slain by LordMax4581'
-[10:22:02] [Server thread/INFO]: Named entity EntityVillager['root'/878502, uuid='8f4a3fb8-deb3-477c-addb-d789dcd66b31', l='ServerLevel[world]', x=-260.70, y=77.00, z=-2722.30, cpos=[-17, -171], tl=294290, v=true] died: root was slain by LordMax4581
-[10:22:28] [Server thread/INFO]: [Not Secure] [Server] murderer
-[10:22:34] [Async Chat Thread - #139/INFO]: [Not Secure] <LordMax4581> heh
-[10:40:05] [Server thread/WARN]: LordMax4581 moved wrongly!
-[10:43:47] [Server thread/WARN]: LordMax4581 moved too quickly! -9.727019999999996,-2.0,-2.4596849999999932
-[10:44:11] [Server thread/WARN]: LordMax4581 moved too quickly! -10.134129999999999,-3.766370000000002,13.51187999999999
-[10:44:21] [Server thread/WARN]: LordMax4581 moved too quickly! 7.122900000000001,-0.24680000000000035,-7.341849999999994
-[10:59:41] [Async Chat Thread - #141/INFO]: [Not Secure] <anotherMIsa> dah dapet mending rh?
-[10:59:54] [Async Chat Thread - #141/INFO]: [Not Secure] <anotherMIsa> book
-[10:59:58] [Async Chat Thread - #141/INFO]: [Not Secure] <LordMax4581> gw ada villager mending 1
-[11:00:05] [Async Chat Thread - #141/INFO]: [Not Secure] <anotherMIsa> wih mantap
-[11:00:08] [Async Chat Thread - #141/INFO]: [Not Secure] <anotherMIsa> berapa emerald?
-[11:00:09] [Async Chat Thread - #141/INFO]: [Not Secure] <Erha> Nah gitu dong
-[11:00:13] [Async Chat Thread - #141/INFO]: [Not Secure] <LordMax4581> 30
-[11:00:25] [Async Chat Thread - #141/INFO]: [Not Secure] <anotherMIsa> nice
-[11:00:35] [Async Chat Thread - #142/INFO]: [Not Secure] <Erha> Drop koor
-[11:00:38] [Async Chat Thread - #142/INFO]: [Not Secure] <anotherMIsa> mulai trading buat ngumpulin emerald :v
-[11:00:46] [Async Chat Thread - #141/INFO]: [Not Secure] <LordMax4581> yes wkwkw
-[11:01:08] [Async Chat Thread - #141/INFO]: [Not Secure] <LordMax4581> ntar gw sambungin nether ke 0 0 0
-[11:01:20] [Async Chat Thread - #141/INFO]: [Not Secure] <anotherMIsa> bikin nether hub
-[11:01:28] [Async Chat Thread - #141/INFO]: [Not Secure] <anotherMIsa> pake ice
-[11:01:35] [Async Chat Thread - #141/INFO]: [Not Secure] <LordMax4581> musti ke atas gk si?
-[11:01:44] [Server thread/WARN]: LordMax4581 moved wrongly!
-[11:01:52] [Async Chat Thread - #141/INFO]: [Not Secure] <anotherMIsa> gak harus sih, tapi lebih gampang kalo diatas atap bedrock
-[11:02:17] [Server thread/WARN]: LordMax4581 moved wrongly!
-[11:02:57] [Async Chat Thread - #143/INFO]: [Not Secure] <Erha> Buat portal atap bedrock sa
-[11:03:11] [Async Chat Thread - #143/INFO]: [Not Secure] <anotherMIsa> hmm
-[11:03:17] [Async Chat Thread - #143/INFO]: [Not Secure] <anotherMIsa> nanti lah coba
-[11:03:58] [Async Chat Thread - #143/INFO]: [Not Secure] <anotherMIsa> perlu agak banyak ender pearl sih, aku cuma ada 1 :v
-[11:04:15] [Server thread/WARN]: LordMax4581 moved wrongly!
-[11:04:33] [Async Chat Thread - #144/INFO]: [Not Secure] <LordMax4581> gw ada 5 si
-[11:05:12] [Async Chat Thread - #144/INFO]: [Not Secure] <anotherMIsa> hmm bisa aja sih. nanti lah ngumpulin sampe 16 biar gak usah bolak balik
-[11:06:31] [Server thread/INFO]: Erha has made the advancement [Local Brewery]
-[11:06:35] [Server thread/INFO]: LordMax4581 lost connection: Disconnected
-[11:06:35] [Server thread/INFO]: LordMax4581 left the game
-[11:10:00] [Async Chat Thread - #145/INFO]: [Not Secure] <anotherMIsa> bikin apa?
-[11:10:09] [Async Chat Thread - #145/INFO]: [Not Secure] <Erha> Fire resist, mau nether
-[11:10:19] [Async Chat Thread - #145/INFO]: [Not Secure] <anotherMIsa> Ooo nice
-[11:11:01] [Async Chat Thread - #145/INFO]: [Not Secure] <Erha> Eh tar gold armor
-[11:11:15] [Async Chat Thread - #145/INFO]: [Not Secure] <anotherMIsa> hm 0, 0 terlalu deket gak sih dengan portal ini?
-[11:11:29] [Async Chat Thread - #145/INFO]: [Not Secure] <Erha> Emg tu koornya brp
-[11:11:33] [Async Chat Thread - #145/INFO]: [Not Secure] <anotherMIsa> sekitar 10,20
-[11:12:10] [Async Chat Thread - #146/INFO]: [Not Secure] <Erha> Hmm
-[11:17:23] [Server thread/INFO]: Erha has made the advancement [Spooky Scary Skeleton]
-[11:17:30] [Async Chat Thread - #147/INFO]: [Not Secure] <anotherMIsa> nice
-[11:17:36] [Async Chat Thread - #147/INFO]: [Not Secure] <Erha> Boleh boleh
-[11:24:09] [Server thread/INFO]: Erha has completed the challenge [Return to Sender]
-[11:35:51] [Async Chat Thread - #149/INFO]: [Not Secure] <Erha> Ni sa enderpearl 2
-[11:35:55] [Async Chat Thread - #149/INFO]: [Not Secure] <Erha> Eh 16
-[11:36:01] [Async Chat Thread - #149/INFO]: [Not Secure] <anotherMIsa> kumpulin aja dulu
-[11:36:05] [Async Chat Thread - #149/INFO]: [Not Secure] <anotherMIsa> taro aja
-[11:36:31] [Async Chat Thread - #150/INFO]: [Not Secure] <Erha> Okei
-[11:36:46] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[11:36:46] [Server thread/INFO]: anotherMIsa left the game
-[11:38:10] [Server thread/INFO]: Erha lost connection: Disconnected
-[11:38:10] [Server thread/INFO]: Erha left the game
-[11:42:56] [User Authenticator #130/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
-[11:42:56] [Server thread/INFO]: Erha joined the game
-[11:42:56] [Server thread/INFO]: Erha[/125.160.156.3:59104] logged in with entity id 912529 at ([world]73.31024306146863, 64.9375, 165.54066413303843)
-[11:43:24] [Server thread/INFO]: Erha lost connection: Disconnected
-[11:43:24] [Server thread/INFO]: Erha left the game
-[11:43:30] [User Authenticator #130/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
-[11:43:30] [Server thread/INFO]: Erha joined the game
-[11:43:30] [Server thread/INFO]: Erha[/125.160.156.3:59214] logged in with entity id 913055 at ([world]73.31024306146863, 64.9375, 165.54066413303843)
-[11:43:58] [User Authenticator #130/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[11:43:58] [Server thread/INFO]: anotherMIsa joined the game
-[11:43:58] [Server thread/INFO]: anotherMIsa[/125.164.22.251:10767] logged in with entity id 913150 at ([world]134.69869795826682, 64.0, 238.30000001192093)
-[11:53:35] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[11:53:35] [Server thread/INFO]: anotherMIsa left the game
-[11:55:44] [User Authenticator #131/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[11:55:44] [Server thread/INFO]: anotherMIsa joined the game
-[11:55:44] [Server thread/INFO]: anotherMIsa[/125.164.18.146:30169] logged in with entity id 915278 at ([world]133.7480468828125, 64.0, 236.0785166378667)
-[11:57:04] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[11:57:04] [Server thread/INFO]: anotherMIsa left the game
-[11:58:43] [User Authenticator #132/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[11:58:43] [Server thread/INFO]: anotherMIsa joined the game
-[11:58:43] [Server thread/INFO]: anotherMIsa[/125.164.21.158:1141] logged in with entity id 915737 at ([world]132.0214196623722, 68.0, 239.34794140487904)
-[12:04:05] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[12:04:05] [Server thread/INFO]: anotherMIsa left the game
-[12:30:45] [Server thread/INFO]: There are 1 of a max of 20 players online: Erha
-[12:44:21] [User Authenticator #133/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[12:44:21] [Server thread/INFO]: MrLION7 joined the game
-[12:44:21] [Server thread/INFO]: MrLION7[/103.194.175.70:55055] logged in with entity id 926179 at ([world]7.699999988079071, 30.0, 168.98034316864124)
-[12:45:06] [Server thread/WARN]: MrLION7 was kicked due to keepalive timeout!
-[12:45:06] [Server thread/INFO]: MrLION7 lost connection: Timed out
-[12:45:06] [Server thread/INFO]: MrLION7 left the game
-[12:45:48] [User Authenticator #134/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[12:45:48] [Server thread/INFO]: MrLION7 joined the game
-[12:45:48] [Server thread/INFO]: MrLION7[/103.194.175.70:55082] logged in with entity id 927266 at ([world]7.300000011920929, 29.0, 169.69999998807907)
-[12:46:33] [Server thread/WARN]: MrLION7 was kicked due to keepalive timeout!
-[12:46:33] [Server thread/INFO]: MrLION7 lost connection: Timed out
-[12:46:33] [Server thread/INFO]: MrLION7 left the game
-[12:47:09] [User Authenticator #135/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[12:47:09] [Server thread/INFO]: MrLION7 joined the game
-[12:47:09] [Server thread/INFO]: MrLION7[/103.194.175.70:55089] logged in with entity id 927538 at ([world]7.300000011920929, 29.0, 169.69999998807907)
-[12:47:54] [Server thread/WARN]: MrLION7 was kicked due to keepalive timeout!
-[12:47:54] [Server thread/INFO]: MrLION7 lost connection: Timed out
-[12:47:54] [Server thread/INFO]: MrLION7 left the game
-[12:49:31] [User Authenticator #136/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[12:49:31] [Server thread/INFO]: MrLION7 joined the game
-[12:49:31] [Server thread/INFO]: MrLION7[/103.194.175.70:55108] logged in with entity id 928230 at ([world]7.585756006127679, 29.0, 169.45866654650166)
-[12:53:02] [User Authenticator #137/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
-[12:53:02] [Server thread/INFO]: LordMax4581 joined the game
-[12:53:02] [Server thread/INFO]: LordMax4581[/127.0.0.1:57361] logged in with entity id 929078 at ([world]-249.52109, 70.0, -2708.4844)
-[12:53:58] [Server thread/INFO]: There are 3 of a max of 20 players online: Erha, MrLION7, LordMax4581
-[12:57:03] [User Authenticator #138/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[12:57:03] [Server thread/INFO]: anotherMIsa joined the game
-[12:57:03] [Server thread/INFO]: anotherMIsa[/125.164.17.248:5636] logged in with entity id 931659 at ([world]129.7418318825739, 69.0, 241.44087764871526)
-[13:06:51] [Async Chat Thread - #151/INFO]: [Not Secure] <LordMax4581> jir dh bagus
-[13:06:57] [Async Chat Thread - #151/INFO]: [Not Secure] <MrLION7> naon ?*
-[13:07:04] [Async Chat Thread - #152/INFO]: [Not Secure] <LordMax4581> spawn
-[13:07:17] [Server thread/INFO]: LordMax4581 was shot by Erha
-[13:07:23] [Async Chat Thread - #151/INFO]: [Not Secure] <anotherMIsa> balik kerumah lagi
-[13:07:24] [Async Chat Thread - #151/INFO]: [Not Secure] <LordMax4581> bruh
-[13:07:29] [Async Chat Thread - #151/INFO]: [Not Secure] <Erha> Jir 2 shot doang wkkwkw sori sori
-[13:08:35] [Async Chat Thread - #153/INFO]: [Not Secure] <Erha> Udah semuanya tu sa?
-[13:08:49] [Async Chat Thread - #153/INFO]: [Not Secure] <anotherMIsa> udah setau aku, kecuali kalo ada yang nyampur dengan inventory aku
-[13:08:59] [User Authenticator #139/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[13:08:59] [Server thread/INFO]: ARF1407 joined the game
-[13:08:59] [Server thread/INFO]: ARF1407[/180.243.127.156:65478] logged in with entity id 937570 at ([world]246.30000001192093, 80.5625, 208.30000001192093)
-[13:09:03] [Async Chat Thread - #153/INFO]: [Not Secure] <MrLION7> isa
-[13:09:10] [Async Chat Thread - #153/INFO]: [Not Secure] <anotherMIsa> apa
-[13:09:11] [Async Chat Thread - #153/INFO]: [Not Secure] <MrLION7> i want steak :)
-[13:09:31] [Async Chat Thread - #153/INFO]: [Not Secure] <anotherMIsa> ini banyak
-[13:09:41] [Async Chat Thread - #153/INFO]: [Not Secure] <MrLION7> thx u
-[13:10:22] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[13:10:22] [Server thread/INFO]: anotherMIsa left the game
-[13:10:57] [Async Chat Thread - #155/INFO]: [Not Secure] <Erha> Ini
-[13:10:59] [Async Chat Thread - #156/INFO]: [Not Secure] <LordMax4581> barang 
-[13:11:10] [Server thread/INFO]: LordMax4581 has made the advancement [Into Fire]
-[13:11:49] [User Authenticator #140/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
-[13:11:49] [Server thread/INFO]: Erha lost connection: You logged in from another location
-[13:11:49] [Server thread/INFO]: Erha left the game
-[13:11:49] [Server thread/INFO]: Erha joined the game
-[13:11:49] [Server thread/INFO]: Erha[/180.244.132.167:2105] logged in with entity id 938514 at ([world]100.47732140059294, 64.0, 160.8222253420834)
-[13:18:08] [User Authenticator #141/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[13:18:08] [Server thread/INFO]: Regyyy joined the game
-[13:18:08] [Server thread/INFO]: Regyyy[/180.254.136.37:62165] logged in with entity id 941622 at ([world]7.572912105903181, 29.0, 169.62608867988823)
-[13:27:08] [Async Chat Thread - #157/INFO]: [Not Secure] <MrLION7> JANGAN TIDUR
-[13:27:13] [Async Chat Thread - #158/INFO]: [Not Secure] <Regyyy> isa
-[13:27:15] [Async Chat Thread - #157/INFO]: [Not Secure] <LordMax4581> i sleep
-[13:27:16] [Async Chat Thread - #157/INFO]: [Not Secure] <MrLION7> WE NEED ZOMBIE
-[13:29:35] [Server thread/INFO]: Erha has made the advancement [Eye Spy]
-[13:34:38] [Server thread/WARN]: LordMax4581 moved wrongly!
-[13:36:03] [Async Chat Thread - #159/INFO]: [Not Secure] <MrLION7> jangan tidurr yaaa
-[13:46:07] [Server thread/INFO]: LordMax4581 lost connection: Disconnected
-[13:46:07] [Server thread/INFO]: LordMax4581 left the game
-[13:46:25] [User Authenticator #142/INFO]: UUID of player LordMax4581 is 6606d17d-390b-3858-aa5c-3343f71255dc
-[13:46:25] [Server thread/INFO]: LordMax4581 joined the game
-[13:46:25] [Server thread/INFO]: LordMax4581[/127.0.0.1:33857] logged in with entity id 961697 at ([world]-235.12822, 64.0, -2716.264)
-[14:01:27] [Server thread/INFO]: ARF1407 lost connection: Disconnected
-[14:01:27] [Server thread/INFO]: ARF1407 left the game
-[14:04:02] [Server thread/INFO]: There are 4 of a max of 20 players online: MrLION7, Erha, Regyyy, LordMax4581
-[14:06:21] [User Authenticator #143/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[14:06:21] [Server thread/INFO]: anotherMIsa joined the game
-[14:06:21] [Server thread/INFO]: anotherMIsa[/125.164.22.251:12279] logged in with entity id 970460 at ([world]41.86504211386202, 63.0, 126.13976304906713)
-[14:06:35] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[14:06:35] [Server thread/INFO]: anotherMIsa left the game
-[14:06:39] [User Authenticator #143/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[14:06:39] [Server thread/INFO]: anotherMIsa joined the game
-[14:06:39] [Server thread/INFO]: anotherMIsa[/125.164.17.248:23350] logged in with entity id 970697 at ([world]45.12497937906111, 63.0, 125.35952712519762)
-[14:07:25] [Async Chat Thread - #161/INFO]: [Not Secure] <anotherMIsa> ini rumah bakal diancurin?
-[14:07:30] [Async Chat Thread - #161/INFO]: [Not Secure] <Regyyy> iyes
-[14:07:36] [Async Chat Thread - #161/INFO]: [Not Secure] <Regyyy> tapi gak dihancurin juga gak papa
-[14:07:37] [Async Chat Thread - #162/INFO]: [Not Secure] <anotherMIsa> bakar
-[14:07:42] [Async Chat Thread - #162/INFO]: [Not Secure] <Regyyy> silahkan
-[14:08:06] [Async Chat Thread - #161/INFO]: [Not Secure] <Regyyy> sayang pintunya
-[14:08:30] [Async Chat Thread - #162/INFO]: [Not Secure] <anotherMIsa> beautiful
-[14:08:37] [Async Chat Thread - #161/INFO]: [Not Secure] <Regyyy> very
-[14:08:38] [Async Chat Thread - #161/INFO]: [Not Secure] <MrLION7> crazy
-[14:08:56] [Async Chat Thread - #161/INFO]: [Not Secure] <Regyyy> harusnya kita letakin 1 villager didalam
-[14:09:03] [Async Chat Thread - #161/INFO]: [Not Secure] <Regyyy> baru bakar rumahnya
-[14:09:06] [Async Chat Thread - #162/INFO]: [Not Secure] <anotherMIsa> wkwwk
-[14:09:54] [Server thread/INFO]: LordMax4581 lost connection: Disconnected
-[14:09:54] [Server thread/INFO]: LordMax4581 left the game
-[14:20:47] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[14:20:47] [Server thread/INFO]: anotherMIsa left the game
-[14:29:50] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:29:50] [Server thread/INFO]: Saved the game
-[14:31:54] [User Authenticator #144/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[14:31:54] [Server thread/INFO]: ARF1407 joined the game
-[14:31:54] [Server thread/INFO]: ARF1407[/180.243.127.156:60792] logged in with entity id 979203 at ([world]142.52546088865515, 42.0, 194.53006313753662)
-[14:40:20] [User Authenticator #145/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[14:40:20] [Server thread/INFO]: anotherMIsa joined the game
-[14:40:20] [Server thread/INFO]: anotherMIsa[/125.164.22.251:5321] logged in with entity id 982660 at ([world]28.92438939392006, 69.0, 171.14799389441896)
-[14:40:28] [Async Chat Thread - #163/INFO]: [Not Secure] <ARF1407> isa
-[14:40:39] [Async Chat Thread - #163/INFO]: [Not Secure] <anotherMIsa> apa
-[14:41:04] [Async Chat Thread - #163/INFO]: [Not Secure] <ARF1407> ada villager mending
-[14:41:11] [Server thread/INFO]: [WEB] anotherMIsa: dimana
-[14:41:16] [Async Chat Thread - #163/INFO]: [Not Secure] <MrLION7> 9 diamond
-[14:41:22] [Server thread/INFO]: [WEB] anotherMIsa: nice
-[14:41:31] [Async Chat Thread - #163/INFO]: [Not Secure] <MrLION7> unlimited acess
-[14:41:44] [Server thread/INFO]: [WEB] anotherMIsa: aku lagi agak rendah diamond sih :v
-[14:42:02] [Server thread/INFO]: [WEB] anotherMIsa: villager udah di zombiefikasi atau bawaan 9diamond?
-[14:42:14] [Async Chat Thread - #163/INFO]: [Not Secure] <MrLION7> belum tapi otw
-[14:42:17] [Async Chat Thread - #164/INFO]: [Not Secure] <MrLION7> ya kan dal
-[14:42:20] [Async Chat Thread - #164/INFO]: [Not Secure] <MrLION7> dam
-[14:44:42] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[14:44:42] [Server thread/INFO]: anotherMIsa left the game
-[14:47:51] [Server thread/INFO]: ARF1407 lost connection: Disconnected
-[14:47:51] [Server thread/INFO]: ARF1407 left the game
-[14:54:17] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[14:54:17] [Server thread/INFO]: Regyyy left the game
-[16:01:59] [Server thread/INFO]: Villager EntityVillager['Librarian'/446, uuid='e0c0ca74-9569-4b20-8f7e-4201f394c064', l='ServerLevel[world]', x=139.49, y=42.06, z=196.50, cpos=[8, 12], tl=3734121, v=true] died, message: 'Librarian was shot by MrLION7 using [Savior]'
-[16:08:27] [User Authenticator #146/INFO]: UUID of player shinakaa is f8253fc4-0bba-3579-9ccb-65a9e9ceb60c
-[16:08:27] [Server thread/INFO]: shinakaa joined the game
-[16:08:27] [Server thread/INFO]: shinakaa[/103.3.220.0:16990] logged in with entity id 1003076 at ([world]327.03164078356133, -14.0, 841.6999999880791)
-[16:42:55] [Server thread/INFO]: shinakaa has made the advancement [Cover Me with Diamonds]
-[16:46:20] [Server thread/INFO]: shinakaa lost connection: Disconnected
-[16:46:20] [Server thread/INFO]: shinakaa left the game
-[17:20:01] [Server thread/INFO]: Villager EntityVillager['Librarian'/1009667, uuid='82682beb-c2f3-4dda-b82d-7aace6edd8d9', l='ServerLevel[world]', x=95.49, y=42.06, z=196.50, cpos=[5, 12], tl=57227, v=true] died, message: 'Librarian was shot by MrLION7 using [Savior]'
-[17:56:02] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[17:56:02] [Server thread/INFO]: MrLION7 left the game
-[19:05:33] [Server thread/INFO]: Erha lost connection: Disconnected
-[19:05:33] [Server thread/INFO]: Erha left the game
-[22:28:28] [Server thread/INFO]: /185.25.206.232:37494 lost connection: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
-[22:41:53] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:41:53] [Server thread/INFO]: Saved the game
+[00:01:24] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[00:01:24] [Server thread/INFO]: anotherMIsa left the game
+[00:48:01] [User Authenticator #149/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[00:48:01] [Server thread/INFO]: anotherMIsa joined the game
+[00:48:01] [Server thread/INFO]: anotherMIsa[/125.164.22.251:28607] logged in with entity id 1039518 at ([world]132.85425820284203, 69.0, 242.42899850715887)
+[00:52:05] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[00:52:05] [Server thread/INFO]: anotherMIsa left the game
+[02:11:33] [User Authenticator #150/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[02:11:33] [Server thread/INFO]: anotherMIsa joined the game
+[02:11:33] [Server thread/INFO]: anotherMIsa[/125.164.23.35:20524] logged in with entity id 1040854 at ([world]131.70393808262213, 70.0, 243.61629641167778)
+[02:13:19] [User Authenticator #151/INFO]: UUID of player BlackNasCo is 9d8e7bb6-b364-3190-bfd3-644271e288ec
+[02:13:19] [Server thread/INFO]: BlackNasCo joined the game
+[02:13:19] [Server thread/INFO]: BlackNasCo[/180.244.129.3:29506] logged in with entity id 1041114 at ([world]-467.47879307210934, 72.0, 156.69020470304264)
+[02:13:32] [Async Chat Thread - #165/INFO]: [Not Secure] <anotherMIsa> halo
+[02:13:36] [Async Chat Thread - #165/INFO]: [Not Secure] <BlackNasCo> halo
+[02:15:27] [Server thread/INFO]: BlackNasCo lost connection: Disconnected
+[02:15:27] [Server thread/INFO]: BlackNasCo left the game
+[03:22:21] [User Authenticator #152/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
+[03:22:21] [Server thread/INFO]: Erha joined the game
+[03:22:21] [Server thread/INFO]: Erha[/180.244.132.167:31512] logged in with entity id 1057186 at ([world]210.18370484471623, 70.0, 243.4574329777854)
+[04:15:03] [Server thread/INFO]: Villager EntityVillager['Villager'/1056608, uuid='0f5354b3-3070-4c2e-9872-71db83b9a06b', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=66661, v=true] died, message: 'Villager was squished too much'
+[04:16:22] [Server thread/INFO]: Villager EntityVillager['Villager'/1042408, uuid='42e6c800-b30f-4c48-b872-3712517c8bd4', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=143682, v=true] died, message: 'Villager was squished too much'
+[04:26:16] [Server thread/INFO]: Villager EntityVillager['Villager'/1047917, uuid='2ea9c470-dbfe-4ea5-aec7-13fe59ec5f56', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=129327, v=true] died, message: 'Villager was squished too much'
+[04:26:39] [Server thread/INFO]: anotherMIsa lost connection: Timed out
+[04:26:39] [Server thread/INFO]: anotherMIsa left the game
+[04:36:50] [Server thread/INFO]: Villager EntityVillager['Villager'/1032893, uuid='c1cbc332-cebc-4d2c-b002-7bc164699923', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=194709, v=true] died, message: 'Villager was squished too much'
+[04:52:04] [Server thread/INFO]: Villager EntityVillager['Villager'/1061129, uuid='3698f202-10b3-438b-91bd-ec00dbd896e4', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=87044, v=true] died, message: 'Villager was squished too much'
+[04:56:46] [Server thread/INFO]: Villager EntityVillager['Villager'/1034391, uuid='6d6f64dd-3389-4927-b148-8ed4592a6045', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=212335, v=true] died, message: 'Villager was squished too much'
+[05:09:09] [Server thread/INFO]: Villager EntityVillager['Villager'/1052949, uuid='d88ccfe5-3d74-456d-9562-8f0f0938dbec', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=153503, v=true] died, message: 'Villager was squished too much'
+[05:10:35] [User Authenticator #153/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[05:10:35] [Server thread/INFO]: anotherMIsa joined the game
+[05:10:35] [Server thread/INFO]: anotherMIsa[/125.164.20.78:3370] logged in with entity id 1087479 at ([world]77.69519860641496, 64.0, 149.37510561221046)
+[05:21:08] [Server thread/INFO]: Villager EntityVillager['Villager'/1050701, uuid='11eefa8e-09ac-4e84-92b0-7fb0360aae2a', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=182398, v=true] died, message: 'Villager was squished too much'
+[05:25:28] [Async Chat Thread - #167/INFO]: [Not Secure] <anotherMIsa> rh boleh minta fishing rod?
+[05:25:38] [Async Chat Thread - #168/INFO]: [Not Secure] <Erha> Ambil aja, kebanyakan euy
+[05:25:41] [Async Chat Thread - #167/INFO]: [Not Secure] <anotherMIsa> okee
+[05:25:51] [Async Chat Thread - #167/INFO]: [Not Secure] <Erha> Lu mau coba farmnya?
+[05:26:42] [Async Chat Thread - #167/INFO]: [Not Secure] <anotherMIsa> aku bikin repair dulu fishing rodnya
+[05:27:01] [Async Chat Thread - #167/INFO]: [Not Secure] <Erha> Kan banyak yang mending tuh rod wkwkwk
+[05:27:15] [Async Chat Thread - #167/INFO]: [Not Secure] <anotherMIsa> iya mau di gabung dulu
+[05:27:50] [Async Chat Thread - #167/INFO]: [Not Secure] <anotherMIsa> minta 20 level wkwk
+[05:27:56] [Async Chat Thread - #168/INFO]: [Not Secure] <anotherMIsa> habis langsung :v
+[05:28:20] [Async Chat Thread - #168/INFO]: [Not Secure] <Erha> Mayan juga
+[05:31:39] [Async Chat Thread - #169/INFO]: [Not Secure] <anotherMIsa> gimana cara pakenya :v
+[05:32:49] [Async Chat Thread - #171/INFO]: [Not Secure] <Erha> Jadi right click ke wool, arahnya agak ke kanan agar pancingannya terletak di bawah boat
+[05:33:05] [Async Chat Thread - #171/INFO]: [Not Secure] <anotherMIsa> wool yang mana
+[05:33:15] [Async Chat Thread - #171/INFO]: [Not Secure] <Erha> Itu di depan
+[05:33:29] [Server thread/INFO]: Villager EntityVillager['Villager'/1065037, uuid='c61e2785-aa46-4aae-b365-757baefd26ed', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=123194, v=true] died, message: 'Villager was squished too much'
+[05:33:42] [Async Chat Thread - #171/INFO]: [Not Secure] <anotherMIsa> gak di hold?
+[05:33:59] [Async Chat Thread - #171/INFO]: [Not Secure] <Erha> Nah kalau udah di cast pancingannya arahin cursor ke sign di bawahtu
+[05:34:05] [Async Chat Thread - #171/INFO]: [Not Secure] <Erha> Baru hold
+[05:34:15] [Async Chat Thread - #171/INFO]: [Not Secure] <anotherMIsa> oke
+[05:34:40] [Server thread/INFO]: anotherMIsa has made the advancement [Fishy Business]
+[05:35:03] [Async Chat Thread - #171/INFO]: [Not Secure] <anotherMIsa> nice
+[05:35:20] [Server thread/INFO]: Added anotherMIsa2 to the whitelist
+[05:37:18] [User Authenticator #154/INFO]: UUID of player anotherMIsa2 is f5e7fc2f-4524-3cbd-a305-522461680e00
+[05:37:18] [Server thread/INFO]: anotherMIsa2 joined the game
+[05:37:18] [Server thread/INFO]: anotherMIsa2[/125.164.20.78:25567] logged in with entity id 1094236 at ([world]40.391780734387055, 63.0, 125.47368699279443)
+[05:38:27] [Async Chat Thread - #173/INFO]: [Not Secure] <Erha> Kalau terlepas biarin aja tahan, ada clock yang gw buat di bawah tu
+[05:38:38] [Async Chat Thread - #174/INFO]: [Not Secure] <anotherMIsa2> ooo
+[05:38:40] [Server thread/INFO]: Villager EntityVillager['Villager'/1039727, uuid='17df1e19-df03-43ca-bf5f-281faa96a67d', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=252662, v=true] died, message: 'Villager was squished too much'
+[05:38:48] [Async Chat Thread - #174/INFO]: [Not Secure] <Erha> Nanti re cast sendiri pancingannya
+[05:38:54] [Async Chat Thread - #173/INFO]: [Not Secure] <Erha> Nah tu
+[05:39:09] [Async Chat Thread - #174/INFO]: [Not Secure] <anotherMIsa2> kelencet
+[05:39:22] [Async Chat Thread - #174/INFO]: [Not Secure] <anotherMIsa2> join dari hp sori :v
+[05:39:26] [Async Chat Thread - #173/INFO]: [Not Secure] <Erha> Kalem
+[05:39:59] [Server thread/INFO]: anotherMIsa2 has made the advancement [Sneak 100]
+[05:43:29] [Server thread/WARN]: Erha moved too quickly! -10.630488817514763,-3.535840625044557,-0.6441457573721152
+[05:43:48] [Server thread/INFO]: Villager EntityVillager['Villager'/1074092, uuid='02d24881-93dd-49bc-9d43-672aa68cd8e1', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=106894, v=true] died, message: 'Villager was squished too much'
+[05:45:27] [Server thread/INFO]: anotherMIsa2 lost connection: Disconnected
+[05:45:27] [Server thread/INFO]: anotherMIsa2 left the game
+[05:50:41] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[05:50:41] [Server thread/INFO]: anotherMIsa left the game
+[06:01:07] [Server thread/INFO]: Villager EntityVillager['Villager'/1079811, uuid='7e9e02a5-3150-4c06-aef8-0dc29592f853', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=101451, v=true] died, message: 'Villager was squished too much'
+[07:09:57] [Server thread/INFO]: Villager EntityVillager['Villager'/1077232, uuid='bf1c09c2-d903-465c-8c16-d0dc82655360', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=196995, v=true] died, message: 'Villager was squished too much'
+[07:10:28] [User Authenticator #155/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[07:10:28] [Server thread/INFO]: anotherMIsa joined the game
+[07:10:28] [Server thread/INFO]: anotherMIsa[/125.164.22.251:4391] logged in with entity id 1128345 at ([world]130.5, 69.0, 242.5)
+[07:12:19] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[07:12:19] [Server thread/INFO]: anotherMIsa left the game
+[07:57:51] [User Authenticator #156/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[07:57:51] [Server thread/INFO]: ARF1407 joined the game
+[07:57:51] [Server thread/INFO]: ARF1407[/180.251.176.185:12519] logged in with entity id 1138961 at ([world]160.5226503398051, 63.0, 190.40850147881912)
+[08:01:05] [User Authenticator #157/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[08:01:05] [Server thread/INFO]: MrLION7 joined the game
+[08:01:05] [Server thread/INFO]: MrLION7[/103.194.175.70:52111] logged in with entity id 1139780 at ([world]83.213893670678, 65.75, 157.8972208548569)
+[08:01:33] [Async Chat Thread - #175/INFO]: [Not Secure] <MrLION7> test
+[08:02:59] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[08:02:59] [Server thread/INFO]: ARF1407 left the game
+[08:11:50] [User Authenticator #158/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[08:11:50] [Server thread/INFO]: ARF1407 joined the game
+[08:11:50] [Server thread/INFO]: ARF1407[/180.251.176.185:25317] logged in with entity id 1142609 at ([world]211.45244335277013, 70.0, 243.28195310592577)
+[08:13:29] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[08:13:29] [Server thread/INFO]: ARF1407 left the game
+[08:18:37] [Server thread/INFO]: MrLION7 fell from a high place
+[08:19:49] [User Authenticator #159/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[08:19:49] [Server thread/INFO]: ARF1407 joined the game
+[08:19:49] [Server thread/INFO]: ARF1407[/180.251.176.185:25285] logged in with entity id 1145426 at ([world]199.8677350280573, 69.0, 197.28147586121736)
+[08:41:42] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[08:41:42] [Server thread/INFO]: ARF1407 left the game
+[08:44:14] [Server thread/INFO]: Villager EntityVillager['Villager'/1017548, uuid='89d42cb5-576a-4ad2-af7c-43a0f3b7f3c1', l='ServerLevel[world]', x=142.12, y=42.06, z=196.50, cpos=[8, 12], tl=611595, v=true] died, message: 'Villager was shot by MrLION7 using [Savior]'
+[08:47:22] [User Authenticator #160/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[08:47:22] [Server thread/INFO]: anotherMIsa joined the game
+[08:47:22] [Server thread/INFO]: anotherMIsa[/125.164.21.158:28805] logged in with entity id 1153814 at ([world]141.76948313770333, 43.0, 190.73660717561512)
+[08:48:39] [Async Chat Thread - #177/INFO]: [Not Secure] <MrLION7> isa
+[08:48:42] [Async Chat Thread - #177/INFO]: [Not Secure] <anotherMIsa> apaw
+[08:48:48] [Async Chat Thread - #177/INFO]: [Not Secure] <MrLION7> is the slime farm done yet ?
+[08:49:04] [Async Chat Thread - #177/INFO]: [Not Secure] <anotherMIsa> slime farm?
+[08:49:26] [Async Chat Thread - #177/INFO]: [Not Secure] <MrLION7> isn't you who begin to dig a chunck ?
+[08:49:39] [Async Chat Thread - #177/INFO]: [Not Secure] <anotherMIsa> no I just needed cobble stone
+[08:49:51] [Async Chat Thread - #178/INFO]: [Not Secure] <MrLION7> nooooo
+[08:50:05] [Async Chat Thread - #177/INFO]: [Not Secure] <MrLION7> where i can find slimz
+[08:50:08] [Async Chat Thread - #177/INFO]: [Not Secure] <MrLION7> .
+[08:50:10] [Async Chat Thread - #177/INFO]: [Not Secure] <MrLION7> ?
+[08:50:31] [Async Chat Thread - #178/INFO]: [Not Secure] <anotherMIsa> I have no idea, you can try going to the swamp?
+[08:53:27] [Async Chat Thread - #179/INFO]: [Not Secure] <anotherMIsa> nanti seed reveal setelah bunuh ender dragon :v
+[08:53:35] [Async Chat Thread - #180/INFO]: [Not Secure] <MrLION7> :(
+[08:57:19] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[08:57:19] [Server thread/INFO]: anotherMIsa left the game
+[09:02:51] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[09:02:51] [Server thread/INFO]: MrLION7 left the game
+[09:21:03] [User Authenticator #161/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[09:21:03] [Server thread/INFO]: anotherMIsa joined the game
+[09:21:03] [Server thread/INFO]: anotherMIsa[/125.164.21.158:24635] logged in with entity id 1162548 at ([world]61.57525754008977, 66.0, 175.89207517464854)
+[09:29:36] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[09:29:36] [Server thread/INFO]: anotherMIsa left the game
+[11:01:19] [User Authenticator #162/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[11:01:19] [Server thread/INFO]: ARF1407 joined the game
+[11:01:19] [Server thread/INFO]: ARF1407[/180.251.176.185:6008] logged in with entity id 1184944 at ([world]66.62169669287738, 78.0, 102.48693880529493)
+[11:02:35] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[11:02:35] [Server thread/INFO]: ARF1407 left the game
+[11:58:51] [User Authenticator #163/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[11:58:51] [Server thread/INFO]: anotherMIsa joined the game
+[11:58:51] [Server thread/INFO]: anotherMIsa[/125.164.20.78:27723] logged in with entity id 1196753 at ([world]65.5867205867876, 64.0, 185.33791464414983)
+[12:01:48] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:01:48] [Server thread/INFO]: anotherMIsa left the game
+[14:49:34] [User Authenticator #164/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[14:49:34] [Server thread/INFO]: ARF1407 joined the game
+[14:49:34] [Server thread/INFO]: ARF1407[/180.251.183.70:29944] logged in with entity id 1224605 at ([world]150.56510672450332, 63.0, 198.31449111114094)
+[14:52:59] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[14:52:59] [Server thread/INFO]: ARF1407 left the game
+[14:57:37] [Server thread/INFO]: Erha lost connection: Disconnected
+[14:57:37] [Server thread/INFO]: Erha left the game
+[15:42:30] [Server thread/INFO]: Saving the game (this may take a moment!)
+[15:42:30] [Server thread/INFO]: Saved the game
