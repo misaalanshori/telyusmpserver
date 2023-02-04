@@ -62,3 +62,21 @@
 [08:50:54] [Server thread/INFO]: anotherMIsa left the game
 [08:51:46] [Server thread/INFO]: Saving the game (this may take a moment!)
 [08:51:47] [Server thread/INFO]: Saved the game
+[09:09:44] [User Authenticator #1/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[09:09:44] [Server thread/INFO]: anotherMIsa joined the game
+[09:09:44] [Server thread/INFO]: anotherMIsa[/125.164.22.251:23041] logged in with entity id 1410 at ([world]39.540388065512694, 63.0, 129.471034117164)
+[09:15:18] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[09:15:18] [Server thread/INFO]: anotherMIsa left the game
+[11:15:59] [User Authenticator #2/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[11:15:59] [Server thread/INFO]: anotherMIsa joined the game
+[11:15:59] [Server thread/INFO]: anotherMIsa[/125.164.16.103:27402] logged in with entity id 3521 at ([world]111.59522957823302, 64.0, 256.5264228461356)
+[11:18:17] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[11:18:17] [Server thread/INFO]: anotherMIsa left the game
+[13:27:35] [User Authenticator #3/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[13:27:35] [Server thread/INFO]: ARF1407 joined the game
+[13:27:35] [Server thread/INFO]: ARF1407[/180.252.85.68:49893] logged in with entity id 4356 at ([world]69.00580825162339, 79.0, 104.25989870310757)
+[13:27:53] [Server thread/INFO]: Villager EntityVillager['Villager'/378, uuid='b160f219-7458-48cf-9ef9-8736d3b47ca9', l='ServerLevel[world]', x=138.70, y=38.00, z=188.30, cpos=[8, 11], tl=24064, v=true] died, message: 'Villager was squished too much'
+[13:32:11] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[13:32:11] [Server thread/INFO]: ARF1407 left the game
+[15:43:52] [Server thread/INFO]: Saving the game (this may take a moment!)
+[15:43:52] [Server thread/INFO]: Saved the game
