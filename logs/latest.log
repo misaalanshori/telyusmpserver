@@ -1,26 +1,109 @@
-[00:10:17] [User Authenticator #4/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[00:10:17] [Server thread/INFO]: anotherMIsa joined the game
-[00:10:17] [Server thread/INFO]: anotherMIsa[/125.164.18.146:14279] logged in with entity id 5656 at ([world]183.65646610981003, 66.0, 213.27198470158098)
-[00:10:40] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[00:10:40] [Server thread/INFO]: anotherMIsa left the game
-[00:23:25] [User Authenticator #5/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[00:23:25] [Server thread/INFO]: anotherMIsa joined the game
-[00:23:25] [Server thread/INFO]: anotherMIsa[/125.164.16.103:4886] logged in with entity id 6151 at ([world]184.78076611933662, 64.0, 239.6497133069998)
-[00:30:47] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[00:30:47] [Server thread/INFO]: anotherMIsa left the game
-[08:01:19] [Server thread/INFO]: Saving the game (this may take a moment!)
-[08:01:19] [Server thread/INFO]: Saved the game
-[08:01:47] [User Authenticator #6/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:01:47] [Server thread/INFO]: anotherMIsa joined the game
-[08:01:47] [Server thread/INFO]: anotherMIsa[/140.213.47.108:25925] logged in with entity id 8392 at ([world]231.68663389233478, 69.0, 244.46408488116984)
-[08:01:56] [Async Chat Thread - #1/INFO]: [Not Secure] <anotherMIsa> a
-[08:02:03] [Async Chat Thread - #1/INFO]: [Not Secure] <anotherMIsa> aaa
-[08:02:04] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[08:02:04] [Server thread/INFO]: anotherMIsa left the game
-[12:39:22] [User Authenticator #7/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[12:39:22] [Server thread/INFO]: anotherMIsa joined the game
-[12:39:22] [Server thread/INFO]: anotherMIsa[/180.253.228.42:55094] logged in with entity id 8575 at ([world]229.42380144950303, 72.0, 235.01636731732847)
-[12:39:32] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[12:39:32] [Server thread/INFO]: anotherMIsa left the game
-[23:45:58] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:45:58] [Server thread/INFO]: Saved the game
+[00:00:15] [Server thread/INFO]: Villager EntityVillager['Villager'/380, uuid='f27fe34b-eb48-4353-8a63-ac838ae1b2b6', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=2185663, v=true] died, message: 'Villager was squished too much'
+[00:12:18] [Server thread/INFO]: Villager EntityVillager['Villager'/382, uuid='f439485b-c68a-4427-b13e-a3f082c2f99a', l='ServerLevel[world]', x=138.70, y=38.00, z=188.70, cpos=[8, 11], tl=2357117, v=true] died, message: 'Villager was squished too much'
+[00:12:20] [Server thread/INFO]: Villager EntityVillager['Villager'/6501, uuid='023797f3-e1cd-46f9-9851-8ea84bb8800b', l='ServerLevel[world]', x=138.70, y=38.00, z=188.30, cpos=[8, 11], tl=24046, v=true] died, message: 'Villager was squished too much'
+[00:19:58] [Server thread/INFO]: Villager EntityVillager['Villager'/9487, uuid='ffd033ea-fda0-41e8-b679-09a6ab158f29', l='ServerLevel[world]', x=138.70, y=38.00, z=188.30, cpos=[8, 11], tl=24039, v=true] died, message: 'Villager was squished too much'
+[00:31:04] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[00:31:04] [Server thread/INFO]: anotherMIsa left the game
+[09:45:44] [User Authenticator #9/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[09:45:44] [Server thread/INFO]: anotherMIsa joined the game
+[09:45:44] [Server thread/INFO]: anotherMIsa[/125.164.23.35:7658] logged in with entity id 17427 at ([world]49.357075435931314, 64.0, 136.56188765288232)
+[09:47:41] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[09:47:41] [Server thread/INFO]: anotherMIsa left the game
+[10:08:53] [User Authenticator #10/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
+[10:08:53] [Server thread/INFO]: Regyyy joined the game
+[10:08:53] [Server thread/INFO]: Regyyy[/36.74.230.159:59832] logged in with entity id 18154 at ([world]91.76720576589766, 70.0, 105.07847677326862)
+[10:13:23] [User Authenticator #11/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[10:13:23] [Server thread/INFO]: anotherMIsa joined the game
+[10:13:23] [Server thread/INFO]: anotherMIsa[/125.164.22.251:1218] logged in with entity id 18989 at ([world]91.67724893042941, 64.9375, 150.2936368848406)
+[10:13:27] [Async Chat Thread - #4/INFO]: [Not Secure] <Regyyy> halo ka
+[10:13:32] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> halo
+[10:13:49] [Async Chat Thread - #4/INFO]: [Not Secure] <Regyyy> biar gak berdebu ni projek adventure guild
+[10:13:56] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> wkwk
+[10:14:12] [Async Chat Thread - #5/INFO]: [Not Secure] <Regyyy> itu now playing apa maksudnya
+[10:14:16] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> ada musik
+[10:14:31] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> kamu noteblock/jukeboxes di mute?
+[10:14:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Regyyy> baru aku jadiin 100% musik
+[10:15:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Regyyy> oiya ada
+[10:15:33] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> ah udah hampir di luar range disini
+[10:15:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Regyyy> tadi sempet denger lagu
+[10:18:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> sebenarnya bisa sih speedrun ini malam ini
+[10:18:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> cuma kadang mood hilang gitu
+[10:18:18] [Async Chat Thread - #7/INFO]: [Not Secure] <anotherMIsa> wkwk
+[10:18:20] [Async Chat Thread - #7/INFO]: [Not Secure] <Regyyy> gak ada mixue soalnya
+[10:18:31] [Async Chat Thread - #7/INFO]: [Not Secure] <anotherMIsa> wkwkwk
+[10:18:46] [Async Chat Thread - #7/INFO]: [Not Secure] <Regyyy> HEY
+[10:18:47] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> lagu apa ini
+[10:18:55] [Async Chat Thread - #7/INFO]: [Not Secure] <anotherMIsa> c418 - 13
+[10:19:01] [Async Chat Thread - #7/INFO]: [Not Secure] <Regyyy> bro the f
+[10:21:07] [Server thread/INFO]: Villager EntityVillager['Villager'/365, uuid='b3c56177-3c05-4ebf-a401-63bbb813fd56', l='ServerLevel[world]', x=138.30, y=38.00, z=188.30, cpos=[8, 11], tl=2339370, v=true] died, message: 'Villager was squished too much'
+[10:23:34] [Async Chat Thread - #8/INFO]: [Not Secure] <anotherMIsa> a
+[10:25:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Regyyy> the f
+[10:25:47] [Async Chat Thread - #10/INFO]: [Not Secure] <Regyyy> banyak banget iron
+[10:25:55] [Async Chat Thread - #11/INFO]: [Not Secure] <anotherMIsa> emang :v
+[10:25:59] [Async Chat Thread - #11/INFO]: [Not Secure] <Regyyy> kalau nyolong gak ada yang nyadar
+[10:26:00] [Async Chat Thread - #11/INFO]: [Not Secure] <Regyyy> wkwk
+[10:26:03] [Async Chat Thread - #11/INFO]: [Not Secure] <anotherMIsa> gak kok :v
+[10:26:15] [Async Chat Thread - #10/INFO]: [Not Secure] <anotherMIsa> aku bikin farm maling dari iron farm
+[10:26:19] [Async Chat Thread - #10/INFO]: [Not Secure] <Regyyy> kalau gini mah bisa make iron buat building
+[10:36:25] [Async Chat Thread - #12/INFO]: [Not Secure] <Regyyy> ada punya amethys kah
+[10:36:29] [Async Chat Thread - #12/INFO]: [Not Secure] <anotherMIsa> hmm
+[10:37:01] [Async Chat Thread - #12/INFO]: [Not Secure] <anotherMIsa> udah gak ada lagi
+[10:37:04] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> mau buat apa
+[10:37:04] [Async Chat Thread - #13/INFO]: [Not Secure] <Regyyy> oke
+[10:37:07] [Async Chat Thread - #13/INFO]: [Not Secure] <Regyyy> tinted glass
+[10:37:16] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> ooo, perlu banyak kali?w
+[10:37:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Regyyy> tapi ya not necessary
+[10:37:28] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> oke
+[10:40:30] [Async Chat Thread - #15/INFO]: [Not Secure] <Regyyy> men
+[10:43:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Regyyy> out of rails
+[10:44:01] [Async Chat Thread - #16/INFO]: [Not Secure] <anotherMIsa> aku ada kalo gak salah
+[10:44:05] [Async Chat Thread - #17/INFO]: [Not Secure] <Regyyy> meh bukan urusan saya
+[10:44:11] [Async Chat Thread - #17/INFO]: [Not Secure] <anotherMIsa> wkwk oke :v
+[10:44:16] [Async Chat Thread - #17/INFO]: [Not Secure] <Regyyy> saya cuma nge build wkwk
+[10:44:21] [Async Chat Thread - #17/INFO]: [Not Secure] <anotherMIsa> wkwkw :v
+[10:45:23] [Async Chat Thread - #18/INFO]: [Not Secure] <Regyyy> bentar saya ke creative
+[10:45:24] [Server thread/INFO]: Regyyy lost connection: Disconnected
+[10:45:24] [Server thread/INFO]: Regyyy left the game
+[10:46:13] [User Authenticator #12/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
+[10:46:13] [Server thread/INFO]: Regyyy joined the game
+[10:46:13] [Server thread/INFO]: Regyyy[/36.74.230.159:21145] logged in with entity id 25441 at ([world]57.454834830838415, 70.0, 107.31932888231673)
+[10:52:23] [Async Chat Thread - #20/INFO]: [Not Secure] <anotherMIsa> what
+[10:52:31] [Async Chat Thread - #20/INFO]: [Not Secure] <Regyyy> kepencet
+[10:52:37] [Async Chat Thread - #20/INFO]: [Not Secure] <anotherMIsa> wkwk oke :v
+[10:53:55] [Async Chat Thread - #22/INFO]: [Not Secure] <Regyyy> kok spruce tree gw gak bisa tumbuh
+[10:54:24] [Async Chat Thread - #22/INFO]: [Not Secure] <Regyyy> oof nvm
+[11:14:15] [Async Chat Thread - #24/INFO]: [Not Secure] <Regyyy> ceiling nya harus aku ganti
+[11:14:19] [Async Chat Thread - #24/INFO]: [Not Secure] <Regyyy> dem
+[11:14:42] [Async Chat Thread - #25/INFO]: [Not Secure] <Regyyy> im sorry guys but i must do it
+[11:14:50] [Async Chat Thread - #26/INFO]: [Not Secure] <anotherMIsa> mau dijadiin apa?
+[11:14:55] [Async Chat Thread - #26/INFO]: [Not Secure] <Regyyy> slab
+[11:15:00] [Async Chat Thread - #25/INFO]: [Not Secure] <Regyyy> slab apa aja lah
+[11:15:07] [Async Chat Thread - #26/INFO]: [Not Secure] <anotherMIsa> ooo
+[11:15:27] [Async Chat Thread - #26/INFO]: [Not Secure] <Regyyy> mikir bentar
+[11:20:16] [Async Chat Thread - #27/INFO]: [Not Secure] <Regyyy> oh fc
+[11:20:29] [Async Chat Thread - #28/INFO]: [Not Secure] <Regyyy> i need lot of stone
+[11:20:37] [Async Chat Thread - #28/INFO]: [Not Secure] <anotherMIsa> aku ada
+[11:21:11] [Async Chat Thread - #28/INFO]: [Not Secure] <anotherMIsa> -2, 257
+[11:21:34] [Async Chat Thread - #27/INFO]: [Not Secure] <Regyyy> what
+[11:21:36] [Async Chat Thread - #28/INFO]: [Not Secure] <Regyyy> jauh juga
+[11:21:46] [Async Chat Thread - #28/INFO]: [Not Secure] <anotherMIsa> cuma di luar village dikit
+[11:22:01] [Async Chat Thread - #28/INFO]: [Not Secure] <Regyyy> buset
+[11:22:03] [Async Chat Thread - #27/INFO]: [Not Secure] <Regyyy> quarry
+[11:22:05] [Async Chat Thread - #27/INFO]: [Not Secure] <Regyyy> world hole
+[11:22:14] [Async Chat Thread - #27/INFO]: [Not Secure] <Regyyy> WKWK INI
+[11:22:16] [Async Chat Thread - #27/INFO]: [Not Secure] <Regyyy> PARADISE
+[11:22:23] [Async Chat Thread - #27/INFO]: [Not Secure] <anotherMIsa> wkwk
+[11:22:24] [Async Chat Thread - #28/INFO]: [Not Secure] <Regyyy> minta ya
+[11:22:29] [Async Chat Thread - #28/INFO]: [Not Secure] <Regyyy> beneran paradise sa
+[11:22:30] [Async Chat Thread - #28/INFO]: [Not Secure] <anotherMIsa> sok aja
+[11:22:36] [Async Chat Thread - #27/INFO]: [Not Secure] <Regyyy> wkkw thank uu
+[11:22:42] [Async Chat Thread - #27/INFO]: [Not Secure] <anotherMIsa> sipp
+[11:30:10] [Async Chat Thread - #29/INFO]: [Not Secure] <Regyyy> aku ke creative bentar
+[11:30:11] [Server thread/INFO]: Regyyy lost connection: Disconnected
+[11:30:11] [Server thread/INFO]: Regyyy left the game
+[11:32:15] [Server thread/INFO]: anotherMIsa issued server command: /save-all
+[11:32:25] [User Authenticator #13/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
+[11:32:25] [Server thread/INFO]: Regyyy joined the game
+[11:32:25] [Server thread/INFO]: Regyyy[/36.74.230.159:22075] logged in with entity id 33339 at ([world]84.54001460709515, 70.0, 119.98640354400204)
+[11:32:56] [Server thread/INFO]: Saving the game (this may take a moment!)
+[11:32:56] [Server thread/INFO]: Saved the game
