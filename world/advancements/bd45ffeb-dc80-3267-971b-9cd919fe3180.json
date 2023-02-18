@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2023-02-18 15:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2023-01-25 10:57:46 +0000"
@@ -626,6 +632,7 @@
       "minecraft:evoker": "2023-02-02 15:25:25 +0000",
       "minecraft:witch": "2023-01-30 16:12:54 +0000",
       "minecraft:wither_skeleton": "2023-01-26 08:00:30 +0000",
+      "minecraft:shulker": "2023-02-18 16:12:43 +0000",
       "minecraft:cave_spider": "2023-01-27 07:19:13 +0000",
       "minecraft:enderman": "2023-01-26 07:30:15 +0000",
       "minecraft:silverfish": "2023-01-31 13:32:46 +0000",
@@ -896,6 +903,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2023-01-26 11:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-02-18 15:47:18 +0000"
     },
     "done": true
   },
@@ -1504,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-02-18 15:53:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2023-01-26 02:41:06 +0000"
@@ -1792,6 +1811,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-01-27 11:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-02-18 15:47:26 +0000"
     },
     "done": true
   },
@@ -2612,6 +2637,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-02-18 15:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-02-18 15:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2023-01-26 02:53:12 +0000"
@@ -2798,6 +2835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2023-02-18 16:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2023-01-31 11:17:23 +0000"
@@ -2858,6 +2901,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-02-18 16:12:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2023-01-26 11:47:55 +0000"
@@ -2873,6 +2922,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-01-25 11:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-02-18 15:56:05 +0000"
     },
     "done": true
   },
@@ -3032,6 +3087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-02-18 15:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2023-01-25 10:57:46 +0000"
@@ -3089,6 +3150,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-01-27 11:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-02-18 15:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-02-18 15:47:26 +0000"
     },
     "done": true
   },
