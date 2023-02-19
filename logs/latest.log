@@ -1,109 +1,89 @@
-[04:39:21] [User Authenticator #16/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[04:39:21] [Server thread/INFO]: Regyyy joined the game
-[04:39:21] [Server thread/INFO]: Regyyy[/36.85.233.170:49419] logged in with entity id 83735 at ([world]83.88921089028007, 64.875, 152.08153831875515)
-[04:43:12] [Server thread/INFO]: Villager EntityVillager['Librarian'/180, uuid='d7c3c1ef-1007-4866-a5e7-6492bd0b59ba', l='ServerLevel[world]', x=68.50, y=78.19, z=109.70, cpos=[4, 6], tl=31593939, v=true] died, message: 'Librarian was slain by Bobs'
-[04:43:41] [Server thread/INFO]: Villager EntityVillager['Librarian'/182, uuid='5ec7fe00-a4ad-4f0d-9d8f-3beed715f7e4', l='ServerLevel[world]', x=66.50, y=78.19, z=109.30, cpos=[4, 6], tl=27803157, v=true] died, message: 'Librarian was slain by Bobs'
-[04:44:35] [Server thread/INFO]: Villager EntityVillager['Librarian'/181, uuid='5346592c-d74b-47fb-b41e-60495cbb599c', l='ServerLevel[world]', x=70.50, y=78.19, z=109.70, cpos=[4, 6], tl=27787929, v=true] died, message: 'Librarian was slain by Bobs'
-[05:19:55] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[05:19:55] [Server thread/INFO]: Regyyy left the game
-[05:54:10] [User Authenticator #17/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[05:54:10] [Server thread/INFO]: anotherMIsa joined the game
-[05:54:10] [Server thread/INFO]: anotherMIsa[/125.164.23.81:22679] logged in with entity id 90918 at ([world]158.26786248438924, 62.0, 223.69999998807907)
-[05:54:56] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[05:54:56] [Server thread/INFO]: anotherMIsa left the game
-[06:16:23] [User Authenticator #18/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
-[06:16:23] [Server thread/INFO]: Erha joined the game
-[06:16:23] [Server thread/INFO]: Erha[/36.69.199.233:50291] logged in with entity id 91262 at ([world]110.32671240997679, 62.9375, 165.9740318474276)
-[06:18:16] [Server thread/INFO]: Erha lost connection: Disconnected
-[06:18:16] [Server thread/INFO]: Erha left the game
-[07:49:08] [User Authenticator #19/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[07:49:08] [Server thread/INFO]: Regyyy joined the game
-[07:49:08] [Server thread/INFO]: Regyyy[/36.85.233.170:63060] logged in with entity id 91778 at ([world]82.40678455776569, 70.0, 120.4763652189135)
-[08:05:21] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[08:05:21] [Server thread/INFO]: Regyyy left the game
-[08:32:56] [User Authenticator #20/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[08:32:56] [Server thread/INFO]: Regyyy joined the game
-[08:32:56] [Server thread/INFO]: Regyyy[/36.85.233.170:56433] logged in with entity id 94910 at ([world]81.8532917184113, 64.0, 142.64622169926727)
-[08:33:03] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[08:33:03] [Server thread/INFO]: Regyyy left the game
-[09:19:20] [User Authenticator #21/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[09:19:20] [Server thread/INFO]: Regyyy joined the game
-[09:19:20] [Server thread/INFO]: Regyyy[/36.85.233.170:62162] logged in with entity id 94999 at ([world]82.51947551268596, 63.0, 132.27757407643023)
-[09:36:14] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[09:36:14] [Server thread/INFO]: Regyyy left the game
-[09:46:45] [User Authenticator #22/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[09:46:45] [Server thread/INFO]: Regyyy joined the game
-[09:46:45] [Server thread/INFO]: Regyyy[/36.85.233.170:62488] logged in with entity id 98839 at ([world]84.7711352578123, 85.0, 116.51482483909908)
-[09:54:55] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[09:54:55] [Server thread/INFO]: Regyyy left the game
-[09:55:15] [User Authenticator #23/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[09:55:15] [Server thread/INFO]: Regyyy joined the game
-[09:55:15] [Server thread/INFO]: Regyyy[/36.85.233.170:62639] logged in with entity id 99965 at ([world]81.42549107845669, 77.0, 107.8021716009874)
-[09:56:29] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[09:56:29] [Server thread/INFO]: Regyyy left the game
-[09:57:26] [User Authenticator #24/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[09:57:26] [Server thread/INFO]: Regyyy joined the game
-[09:57:26] [Server thread/INFO]: Regyyy[/36.85.233.170:62663] logged in with entity id 100231 at ([world]81.42627710657295, 70.0, 120.86831044111028)
-[10:06:30] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[10:06:30] [Server thread/INFO]: Regyyy left the game
-[10:07:38] [User Authenticator #25/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[10:07:38] [Server thread/INFO]: Regyyy joined the game
-[10:07:38] [Server thread/INFO]: Regyyy[/36.85.233.170:54793] logged in with entity id 101742 at ([world]76.30000001192093, 72.0, 111.69999998807907)
-[10:17:48] [Server thread/INFO]: Regyyy lost connection: Disconnected
-[10:17:48] [Server thread/INFO]: Regyyy left the game
-[14:52:01] [User Authenticator #26/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
-[14:52:01] [Server thread/INFO]: Regyyy joined the game
-[14:52:01] [Server thread/INFO]: Regyyy[/36.85.233.170:64312] logged in with entity id 103379 at ([world]9.920900497219009, 30.875, 167.57605033034343)
-[15:24:08] [User Authenticator #27/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
-[15:24:08] [Server thread/INFO]: Erha joined the game
-[15:24:08] [Server thread/INFO]: Erha[/36.69.199.233:65209] logged in with entity id 109314 at ([world]102.64094420762531, 63.0, 167.373211160753)
-[15:26:41] [Server thread/INFO]: Regyyy has made the advancement [Local Brewery]
-[15:27:29] [Server thread/INFO]: Regyyy has made the advancement [We Need to Go Deeper]
-[15:28:50] [User Authenticator #28/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[15:28:50] [Server thread/INFO]: anotherMIsa joined the game
-[15:28:50] [Server thread/INFO]: anotherMIsa[/125.164.21.137:30492] logged in with entity id 110734 at ([world]96.24060881869777, 64.0, 223.45337388165078)
-[15:29:30] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[15:29:30] [Server thread/INFO]: anotherMIsa left the game
-[15:31:32] [User Authenticator #29/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[15:31:32] [Server thread/INFO]: anotherMIsa joined the game
-[15:31:32] [Server thread/INFO]: anotherMIsa[/125.164.20.75:27490] logged in with entity id 111941 at ([world]84.62111835021958, 67.0, 160.8177212973168)
-[15:35:04] [User Authenticator #30/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[15:35:04] [Server thread/INFO]: ARF1407 joined the game
-[15:35:04] [Server thread/INFO]: ARF1407[/180.244.139.153:5827] logged in with entity id 112663 at ([world]49.38339216428849, 64.0, 132.25137274885222)
-[15:37:48] [Server thread/INFO]: anotherMIsa has completed the challenge [Serious Dedication]
-[15:43:29] [Server thread/INFO]: ARF1407 lost connection: Timed out
-[15:43:29] [Server thread/INFO]: ARF1407 left the game
-[15:43:40] [User Authenticator #31/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[15:43:40] [Server thread/INFO]: ARF1407 joined the game
-[15:43:40] [Server thread/INFO]: ARF1407[/114.124.240.80:65453] logged in with entity id 115548 at ([world_nether]34.58793948491354, 129.0, 9.041175596076211)
-[15:44:41] [Server thread/INFO]: Regyyy has made the advancement [Eye Spy]
-[15:44:46] [Server thread/INFO]: ARF1407 has made the advancement [Eye Spy]
-[15:47:18] [Server thread/INFO]: Erha has made the advancement [The End?]
-[15:47:18] [Server thread/INFO]: Regyyy has made the advancement [The End?]
-[15:47:18] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[15:47:18] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[15:47:21] [Server thread/INFO]: anotherMIsa has made the advancement [The End?]
-[15:47:22] [Server thread/INFO]: ARF1407 has made the advancement [The End?]
-[15:49:27] [Server thread/INFO]: Regyyy has reached the goal [You Need a Mint]
-[15:52:12] [Server thread/INFO]: ARF1407 fell from a high place
-[15:53:06] [Server thread/INFO]: ARF1407 has made the advancement [Free the End]
-[15:53:35] [Server thread/INFO]: Erha has reached the goal [The Next Generation]
-[15:53:41] [Server thread/INFO]: anotherMIsa has reached the goal [The Next Generation]
-[15:53:47] [Server thread/INFO]: ARF1407 has reached the goal [The Next Generation]
-[15:53:59] [Server thread/INFO]: Regyyy has reached the goal [The Next Generation]
-[15:55:45] [Server thread/INFO]: Regyyy has made the advancement [Remote Getaway]
-[15:55:46] [Server thread/INFO]: ARF1407 has made the advancement [Remote Getaway]
-[15:55:51] [Server thread/INFO]: anotherMIsa has made the advancement [Remote Getaway]
-[15:56:05] [Server thread/INFO]: Erha has made the advancement [Remote Getaway]
-[15:57:27] [Server thread/INFO]: ARF1407 lost connection: Disconnected
-[15:57:27] [Server thread/INFO]: ARF1407 left the game
-[15:58:32] [Server thread/INFO]: Seed: [5990807343543545127]
-[16:07:25] [Server thread/INFO]: Regyyy has made the advancement [The City at the End of the Game]
-[16:07:47] [Server thread/INFO]: anotherMIsa has made the advancement [The City at the End of the Game]
-[16:08:38] [Server thread/INFO]: anotherMIsa has reached the goal [Sky's the Limit]
-[16:12:39] [Server thread/INFO]: Erha has made the advancement [The City at the End of the Game]
-[16:13:34] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> 911 303
-[16:20:31] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[16:20:31] [Server thread/INFO]: anotherMIsa left the game
-[16:20:44] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:20:45] [Server thread/INFO]: Saved the game
+[02:42:22] [User Authenticator #32/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
+[02:42:22] [Server thread/INFO]: Regyyy joined the game
+[02:42:22] [Server thread/INFO]: Regyyy[/36.85.233.170:60298] logged in with entity id 141312 at ([world]81.27037748288964, 67.0, 158.32352657411468)
+[04:12:12] [Server thread/INFO]: [WEB] ARF1407: h
+[04:12:17] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> p
+[04:12:29] [Server thread/INFO]: [WEB] ARF1407: login
+[04:12:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> lu yang login njir
+[04:12:40] [Async Chat Thread - #7/INFO]: [Not Secure] <Regyyy> gw dari tadi main
+[04:12:43] [Server thread/INFO]: [WEB] ARF1407: WKWKWKWKWWK
+[04:12:49] [Async Chat Thread - #7/INFO]: [Not Secure] <Regyyy> :v
+[04:12:53] [Server thread/INFO]: [WEB] ARF1407: dadah
+[04:12:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> y
+[04:58:11] [Server thread/INFO]: Regyyy lost connection: Disconnected
+[04:58:11] [Server thread/INFO]: Regyyy left the game
+[06:13:20] [User Authenticator #33/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[06:13:20] [Server thread/INFO]: anotherMIsa joined the game
+[06:13:20] [Server thread/INFO]: anotherMIsa[/36.69.196.207:24308] logged in with entity id 242268 at ([world]47.59888854980148, 63.875, 125.83337442536838)
+[07:08:29] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[07:08:29] [Server thread/INFO]: anotherMIsa left the game
+[07:15:11] [User Authenticator #34/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[07:15:11] [Server thread/INFO]: anotherMIsa joined the game
+[07:15:11] [Server thread/INFO]: anotherMIsa[/36.69.196.207:51092] logged in with entity id 254895 at ([world_the_end]1090.806258018488, 116.0, -1522.799719795135)
+[07:18:02] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[07:18:02] [Server thread/INFO]: anotherMIsa left the game
+[07:21:18] [User Authenticator #35/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[07:21:18] [Server thread/INFO]: anotherMIsa joined the game
+[07:21:18] [Server thread/INFO]: anotherMIsa[/36.69.196.207:48122] logged in with entity id 255175 at ([world_the_end]1082.9341404407949, 119.5, -1523.1935289352568)
+[07:40:01] [User Authenticator #36/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[07:40:01] [Server thread/INFO]: ARF1407 joined the game
+[07:40:01] [Server thread/INFO]: ARF1407[/180.244.139.153:28546] logged in with entity id 261143 at ([world]1508.4606975049298, 29.0, -684.0808114012874)
+[07:40:29] [Async Chat Thread - #8/INFO]: [Not Secure] <anotherMIsa> hallo
+[07:40:39] [Server thread/INFO]: ARF1407 tried to swim in lava
+[07:40:49] [Server thread/INFO]: ARF1407 tried to swim in lava
+[07:40:54] [Async Chat Thread - #9/INFO]: [Not Secure] <anotherMIsa> bruh
+[07:41:42] [Server thread/INFO]: ARF1407 has reached the goal [Sky's the Limit]
+[07:41:51] [Async Chat Thread - #9/INFO]: [Not Secure] <ARF1407> small sacrifice
+[07:41:56] [Async Chat Thread - #9/INFO]: [Not Secure] <anotherMIsa> wkwk
+[07:43:14] [Async Chat Thread - #10/INFO]: [Not Secure] <ARF1407> wkwkwkkw
+[07:44:28] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[07:44:28] [Server thread/INFO]: ARF1407 left the game
+[08:03:26] [User Authenticator #37/INFO]: UUID of player Erha is bd45ffeb-dc80-3267-971b-9cd919fe3180
+[08:03:26] [Server thread/INFO]: Erha joined the game
+[08:03:26] [Server thread/INFO]: Erha[/36.69.202.129:61851] logged in with entity id 271566 at ([world]94.63350319952065, 63.9375, 168.12143446383018)
+[08:08:31] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[08:08:31] [Server thread/INFO]: anotherMIsa left the game
+[08:08:32] [User Authenticator #38/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[08:08:32] [Server thread/INFO]: anotherMIsa joined the game
+[08:08:32] [Server thread/INFO]: anotherMIsa[/36.69.196.207:60564] logged in with entity id 274343 at ([world]43.42307549153715, 63.0, 125.54429474868971)
+[08:10:38] [Async Chat Thread - #12/INFO]: [Not Secure] <anotherMIsa> test
+[08:10:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Erha> masuk
+[08:11:50] [Server thread/INFO]: Erha lost connection: Disconnected
+[08:11:50] [Server thread/INFO]: Erha left the game
+[08:13:39] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[08:13:42] [Server thread/INFO]: Stopping the server
+[08:13:42] [Server thread/INFO]: Stopping server
+[08:13:42] [Server thread/INFO]: [dynmap] Disabling dynmap v3.5-beta-1-844
+[08:13:42] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[08:13:42] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[08:13:42] [Server thread/INFO]: [dynmap] Saved 52 pending tile renders in world 'world'
+[08:13:42] [Server thread/INFO]: [dynmap] Saved 25984 pending tile renders in world 'world_the_end'
+[08:13:42] [Server thread/INFO]: [dynmap] Disabled
+[08:13:42] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[08:13:42] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[08:13:42] [Server thread/INFO]: Saving players
+[08:13:42] [Server thread/INFO]: anotherMIsa lost connection: Server closed
+[08:13:42] [Server thread/INFO]: anotherMIsa left the game
+[08:13:43] [Server thread/INFO]: Saving worlds
+[08:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Saved 32 block chunks, 538 entity chunks, 0 poi chunks in world 'world' in 0.08s
+[08:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Saved 373 block chunks, 273 entity chunks, 0 poi chunks in world 'world_nether' in 0.33s
+[08:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:13:43] [Server thread/INFO]: [ChunkHolderManager] Saved 264 block chunks, 32 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[08:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:13:43] [Server thread/INFO]: Flushing Chunk IO
+[08:13:43] [Server thread/INFO]: Closing Thread Pool
+[08:13:43] [Server thread/INFO]: Closing Server

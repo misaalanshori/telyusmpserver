@@ -233,6 +233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2023-02-19 07:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2023-02-19 07:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2023-01-25 08:27:48 +0000"
@@ -308,6 +320,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-01-25 10:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-02-19 07:07:35 +0000"
     },
     "done": true
   },
@@ -1655,6 +1673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2023-02-19 07:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2023-01-30 08:53:24 +0000"
@@ -2139,6 +2163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-02-19 07:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2023-01-25 07:58:03 +0000"
@@ -2353,6 +2383,7 @@
     "criteria": {
       "cooked_mutton": "2023-01-26 13:20:53 +0000",
       "cooked_beef": "2023-01-25 09:23:58 +0000",
+      "chorus_fruit": "2023-02-19 07:48:16 +0000",
       "baked_potato": "2023-01-25 09:31:54 +0000",
       "apple": "2023-01-25 09:15:14 +0000",
       "bread": "2023-01-25 07:59:53 +0000",
@@ -3640,6 +3671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2023-02-19 07:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
       "silk_touch_nest": "2023-01-29 16:29:27 +0000"
@@ -3745,6 +3782,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2023-01-31 04:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-02-19 07:07:35 +0000"
     },
     "done": true
   },
