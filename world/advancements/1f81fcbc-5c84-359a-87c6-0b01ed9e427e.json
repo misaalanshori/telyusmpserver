@@ -815,6 +815,7 @@
       "minecraft:spider": "2023-01-25 09:06:39 +0000",
       "minecraft:creeper": "2023-01-25 08:42:36 +0000",
       "minecraft:slime": "2023-02-02 01:48:18 +0000",
+      "minecraft:phantom": "2023-02-20 03:38:55 +0000",
       "minecraft:witch": "2023-01-25 10:07:26 +0000",
       "minecraft:wither_skeleton": "2023-01-27 23:37:47 +0000",
       "minecraft:shulker": "2023-02-18 16:08:36 +0000",
@@ -3824,6 +3825,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2023-02-19 07:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2023-02-20 03:52:06 +0000"
     },
     "done": true
   },

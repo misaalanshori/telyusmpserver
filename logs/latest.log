@@ -1,79 +1,151 @@
-[08:31:29] [ServerMain/INFO]: Building unoptimized datafixer
-[08:31:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:31:31] [ServerMain/INFO]: Loaded 7 recipes
-[08:31:32] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[08:31:32] [Server thread/INFO]: Loading properties
-[08:31:32] [Server thread/INFO]: This server is running Paper version git-Paper-404 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: f9dc371)
-[08:31:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:31:32] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:31:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[08:31:32] [Server thread/INFO]: Default game type: SURVIVAL
-[08:31:32] [Server thread/INFO]: Generating keypair
-[08:31:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:31:33] [Server thread/INFO]: Using epoll channel type
-[08:31:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[08:31:33] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[08:31:33] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
-[08:31:33] [Server thread/INFO]: [dynmap] Loading dynmap v3.5-beta-1-844
-[08:31:33] [Server thread/INFO]: [dynmap] version=git-Paper-404 (MC: 1.19.3)
-[08:31:33] [Server thread/INFO]: [dynmap] Mod Support API available
-[08:31:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:31:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:31:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:31:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:31:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:31:33] [Server thread/INFO]: Preparing level "world"
-[08:31:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:31:33] [Server thread/INFO]: Time elapsed: 129 ms
-[08:31:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:31:33] [Server thread/INFO]: Time elapsed: 38 ms
-[08:31:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:31:33] [Server thread/INFO]: Time elapsed: 32 ms
-[08:31:33] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
-[08:31:33] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
-[08:31:33] [Server thread/INFO]: [dynmap] Enabling dynmap v3.5-beta-1-844
-[08:31:34] [Server thread/INFO]: [dynmap] Added 19 custom biome mappings
-[08:31:34] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[08:31:34] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[08:31:34] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[08:31:36] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[08:31:36] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[08:31:36] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[08:31:37] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[08:31:37] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[08:31:37] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[08:31:37] [Server thread/INFO]: [dynmap] version 3.5-beta-1-844 is enabled - core version 3.5-beta-1-844
-[08:31:37] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[08:31:37] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[08:31:37] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[08:31:37] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[08:31:37] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[08:31:37] [Server thread/INFO]: [dynmap] Loaded 40 pending tile renders for world 'world'
-[08:31:37] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[08:31:37] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[08:31:37] [Server thread/INFO]: [dynmap] Loaded 21825 pending tile renders for world 'world_the_end'
-[08:31:37] [Server thread/INFO]: [dynmap] Enabled
-[08:31:37] [Server thread/INFO]: Running delayed init tasks
-[08:31:37] [Server thread/INFO]: Done (5.290s)! For help, type "help"
-[08:31:37] [Server thread/INFO]: Timings Reset
-[08:31:37] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[08:31:41] [User Authenticator #0/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:31:41] [Server thread/INFO]: anotherMIsa joined the game
-[08:31:41] [Server thread/INFO]: anotherMIsa[/36.69.196.207:44870] logged in with entity id 479 at ([world]43.08181544278617, 63.0, 125.53957226630708)
-[08:31:43] [Async Chat Thread - #0/INFO]: [Not Secure] <anotherMIsa> aa
-[08:33:58] [Async Chat Thread - #2/INFO]: [Not Secure] <anotherMIsa> a
-[08:33:59] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[08:33:59] [Server thread/INFO]: anotherMIsa left the game
-[09:03:07] [User Authenticator #1/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:03:07] [Server thread/INFO]: anotherMIsa joined the game
-[09:03:07] [Server thread/INFO]: anotherMIsa[/36.69.196.207:34004] logged in with entity id 1974 at ([world]20.516525155411223, 65.0, 130.9043999010839)
-[09:10:16] [Server thread/WARN]: anotherMIsa moved too quickly! 5.73548956218135,-7.0,5.160971075929538
-[09:23:34] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:23:34] [Server thread/INFO]: anotherMIsa left the game
-[10:25:27] [User Authenticator #2/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[10:25:27] [Server thread/INFO]: anotherMIsa joined the game
-[10:25:27] [Server thread/INFO]: anotherMIsa[/36.69.196.207:59972] logged in with entity id 7303 at ([world]37.3926480683158, 70.0, 161.668865096404)
-[10:30:51] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[10:30:51] [Server thread/INFO]: anotherMIsa left the game
-[23:08:37] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:08:37] [Server thread/INFO]: Saved the game
+[01:27:37] [User Authenticator #4/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[01:27:37] [Server thread/INFO]: anotherMIsa joined the game
+[01:27:37] [Server thread/INFO]: anotherMIsa[/36.69.196.207:45672] logged in with entity id 9865 at ([world]37.80936509093554, 69.9375, 164.54580813517262)
+[01:47:37] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[01:47:37] [Server thread/INFO]: anotherMIsa left the game
+[02:02:13] [User Authenticator #5/INFO]: UUID of player Regyyy is 6d8443fc-689b-3165-8aec-87269d51b64e
+[02:02:13] [Server thread/INFO]: Regyyy joined the game
+[02:02:13] [Server thread/INFO]: Regyyy[/36.85.233.170:53555] logged in with entity id 14692 at ([world]88.5, 70.0, 105.5)
+[02:23:51] [Server thread/INFO]: Regyyy has reached the goal [Sky's the Limit]
+[02:25:57] [User Authenticator #6/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[02:25:57] [Server thread/INFO]: anotherMIsa joined the game
+[02:25:57] [Server thread/INFO]: anotherMIsa[/36.69.196.207:56456] logged in with entity id 18873 at ([world]43.06262071919862, 63.0, 124.11454203231804)
+[02:26:22] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> nih mau diamondnya?
+[02:26:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Regyyy> bolehh
+[02:26:57] [Async Chat Thread - #5/INFO]: [Not Secure] <Regyyy> aaa makasih banyakk
+[02:27:03] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> iya :v
+[02:27:05] [Async Chat Thread - #5/INFO]: [Not Secure] <Regyyy> mwehehe
+[02:27:15] [Async Chat Thread - #5/INFO]: [Not Secure] <Regyyy> gini nih semangat ngebuild
+[02:27:27] [Async Chat Thread - #4/INFO]: [Not Secure] <anotherMIsa> wkwk
+[02:27:46] [Server thread/INFO]: anotherMIsa issued server command: /trigger ch_help
+[02:27:46] [Server thread/INFO]: [anotherMIsa: Triggered [show coordinates hud config]]
+[02:29:40] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> sebenarnya ini tempat tinggal atap doang sih
+[02:29:48] [Async Chat Thread - #7/INFO]: [Not Secure] <anotherMIsa> hmm
+[02:30:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> yang dimana butuh banyak spruce stairs
+[02:30:09] [Async Chat Thread - #6/INFO]: [Not Secure] <anotherMIsa> yang mau bikin isinya siapa? katanya kan ada storage system gitu
+[02:30:16] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> itu mah urusan adam liyan
+[02:30:20] [Async Chat Thread - #6/INFO]: [Not Secure] <anotherMIsa> Oooo
+[02:30:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Regyyy> kalau stasiun masih aku
+[02:32:20] [Async Chat Thread - #8/INFO]: [Not Secure] <Regyyy> udah melayang gini masih jadi podzol njir
+[02:32:27] [Async Chat Thread - #9/INFO]: [Not Secure] <anotherMIsa> wkwk
+[02:32:29] [Async Chat Thread - #9/INFO]: [Not Secure] <anotherMIsa> aku minta
+[02:32:35] [Async Chat Thread - #9/INFO]: [Not Secure] <anotherMIsa> podzol :v
+[02:32:40] [Async Chat Thread - #9/INFO]: [Not Secure] <Regyyy> silahkan ambil
+[02:32:46] [Async Chat Thread - #9/INFO]: [Not Secure] <Regyyy> ntar kurapiin tanahnya
+[02:36:12] [Server thread/INFO]: anotherMIsa issued server command: /datapack
+[02:37:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Regyyy> ntar cari jasa gusur rumah lah
+[02:37:19] [Async Chat Thread - #10/INFO]: [Not Secure] <Regyyy> tenda ku harus dipindah
+[02:37:26] [Async Chat Thread - #11/INFO]: [Not Secure] <anotherMIsa> twkwk
+[02:37:34] [Server thread/INFO]: anotherMIsa issued server command: /trigger color
+[02:37:34] [Server thread/INFO]: [anotherMIsa: Triggered [Color]]
+[02:37:39] [Server thread/INFO]: anotherMIsa issued server command: /trigger color set -7
+[02:37:39] [Server thread/INFO]: [anotherMIsa: Triggered [Color] (set value to -7)]
+[02:37:46] [Async Chat Thread - #12/INFO]: [Not Secure] <anotherMIsa> a
+[02:38:14] [Async Chat Thread - #12/INFO]: [Not Secure] <anotherMIsa> kalo ini bangunan siapa? kearah timur dari tempat kamu farming kayu
+[02:38:29] [Async Chat Thread - #12/INFO]: [Not Secure] <Regyyy> kurang tau
+[02:38:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Regyyy> udah lama bnaget disitu
+[02:38:39] [Async Chat Thread - #11/INFO]: [Not Secure] <anotherMIsa> Ooo oke
+[02:45:27] [Server thread/INFO]: Regyyy issued server command: /kill regyy
+[02:47:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Regyyy> my brain is confused with this
+[02:47:41] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> wkwk confused gmn :v
+[02:47:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Regyyy> oh enggak deng salah letakin
+[02:47:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Regyyy> tadi bingung kok gak sejajar
+[03:00:50] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[03:00:50] [Server thread/INFO]: anotherMIsa left the game
+[03:00:52] [User Authenticator #7/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[03:00:52] [Server thread/INFO]: anotherMIsa joined the game
+[03:00:52] [Server thread/INFO]: anotherMIsa[/36.69.196.207:38504] logged in with entity id 26656 at ([world]14.07859323842808, 69.0, 203.5182125520203)
+[03:04:21] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[03:04:21] [Server thread/INFO]: anotherMIsa left the game
+[03:13:38] [User Authenticator #8/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[03:13:38] [Server thread/INFO]: anotherMIsa joined the game
+[03:13:38] [Server thread/INFO]: anotherMIsa[/36.69.196.207:39120] logged in with entity id 28683 at ([world]71.95987980035291, 64.9375, 164.56238029333971)
+[03:13:57] [Async Chat Thread - #15/INFO]: [Not Secure] <Regyyy> bruh diundur jam 2
+[03:14:04] [Async Chat Thread - #15/INFO]: [Not Secure] <anotherMIsa> kan ada basis data
+[03:14:12] [Async Chat Thread - #15/INFO]: [Not Secure] <Regyyy> iya iut
+[03:14:18] [Async Chat Thread - #15/INFO]: [Not Secure] <anotherMIsa> ganti hari sih ini mah
+[03:15:09] [Async Chat Thread - #16/INFO]: [Not Secure] <Regyyy> bruh moment
+[03:15:12] [Async Chat Thread - #16/INFO]: [Not Secure] <anotherMIsa> wkwk
+[03:19:49] [Async Chat Thread - #17/INFO]: [Not Secure] <Regyyy> bow infinity ku belum dibalikin adam wkwk
+[03:19:53] [Async Chat Thread - #18/INFO]: [Not Secure] <Regyyy> baru ingat
+[03:19:57] [Async Chat Thread - #18/INFO]: [Not Secure] <anotherMIsa> wkwkwk
+[03:28:11] [Async Chat Thread - #19/INFO]: [Not Secure] <anotherMIsa> tidak akan pernah kehabisan anvil lagi
+[03:28:29] [Async Chat Thread - #19/INFO]: [Not Secure] <Regyyy> WTF
+[03:28:36] [Async Chat Thread - #19/INFO]: [Not Secure] <Regyyy> isa lu tolol -liyan
+[03:28:44] [Async Chat Thread - #19/INFO]: [Not Secure] <anotherMIsa> wkwkwk
+[03:28:59] [Async Chat Thread - #19/INFO]: [Not Secure] <anotherMIsa> gabut nunggu kelas gak jelas :v
+[03:31:19] [Async Chat Thread - #21/INFO]: [Not Secure] <Regyyy> baru juga nebang tadi udah habis aja spruce ku
+[03:31:31] [Async Chat Thread - #21/INFO]: [Not Secure] <anotherMIsa> banyak sih perlunya :v
+[03:31:42] [Server thread/INFO]: anotherMIsa issued server command: /trigger color
+[03:31:42] [Server thread/INFO]: [anotherMIsa: Triggered [Color]]
+[03:31:47] [Server thread/INFO]: anotherMIsa issued server command: /trigger color set -15
+[03:31:47] [Server thread/INFO]: [anotherMIsa: Triggered [Color] (set value to -15)]
+[03:32:32] [Async Chat Thread - #23/INFO]: [Not Secure] <anotherMIsa> eh btw kalo malem jangan tidur ya. mau farming creeper
+[03:32:35] [Async Chat Thread - #23/INFO]: [Not Secure] <Regyyy> ok
+[03:32:43] [Async Chat Thread - #23/INFO]: [Not Secure] <Regyyy> informasi diterima
+[03:42:08] [Async Chat Thread - #25/INFO]: [Not Secure] <Regyyy> too many zombies
+[03:42:15] [Async Chat Thread - #25/INFO]: [Not Secure] <anotherMIsa> sok bobo
+[03:42:22] [Async Chat Thread - #25/INFO]: [Not Secure] <Regyyy> sans
+[03:42:34] [Async Chat Thread - #25/INFO]: [Not Secure] <anotherMIsa> udahan dulu sih. sepi creeper dari tadi
+[03:47:24] [Async Chat Thread - #27/INFO]: [Not Secure] <Regyyy> bisa bakarin ini?
+[03:47:31] [Async Chat Thread - #27/INFO]: [Not Secure] <anotherMIsa> gak bawa
+[03:48:54] [Async Chat Thread - #29/INFO]: [Not Secure] <Regyyy> gabisa tumbuh njir
+[03:48:54] [Async Chat Thread - #29/INFO]: [Not Secure] <anotherMIsa> mending taro saplingnya 4 4
+[03:49:27] [Async Chat Thread - #30/INFO]: [Not Secure] <anotherMIsa> lebih susah tumbuh kalau banyak gitu
+[03:49:33] [Async Chat Thread - #29/INFO]: [Not Secure] <Regyyy> tadi work
+[03:49:51] [Async Chat Thread - #30/INFO]: [Not Secure] <anotherMIsa> aneh
+[03:49:55] [Async Chat Thread - #29/INFO]: [Not Secure] <anotherMIsa> tkok
+[03:49:59] [Async Chat Thread - #30/INFO]: [Not Secure] <anotherMIsa> saplingnya wkwk
+[03:50:07] [Async Chat Thread - #30/INFO]: [Not Secure] <Regyyy> nah wkwk
+[03:50:17] [Async Chat Thread - #30/INFO]: [Not Secure] <anotherMIsa> bug dari mana dah itu wkwk
+[03:50:28] [Async Chat Thread - #30/INFO]: [Not Secure] <Regyyy> terus tebang dari atas
+[03:50:35] [Async Chat Thread - #30/INFO]: [Not Secure] <anotherMIsa> nice
+[03:52:27] [Async Chat Thread - #31/INFO]: [Not Secure] <Regyyy> nice
+[03:52:33] [Async Chat Thread - #31/INFO]: [Not Secure] <Regyyy> wkw thank u
+[03:55:23] [Async Chat Thread - #33/INFO]: [Not Secure] <Regyyy> rip aim njir
+[03:55:26] [Async Chat Thread - #33/INFO]: [Not Secure] <anotherMIsa> wkwk
+[03:56:19] [Async Chat Thread - #35/INFO]: [Not Secure] <Regyyy> wkwkwkw
+[03:57:42] [Async Chat Thread - #36/INFO]: [Not Secure] <Regyyy> cukup sih buat sekarang
+[03:57:44] [Async Chat Thread - #37/INFO]: [Not Secure] <Regyyy> makasih saa
+[03:57:45] [Async Chat Thread - #37/INFO]: [Not Secure] <anotherMIsa> toke
+[03:57:47] [Async Chat Thread - #37/INFO]: [Not Secure] <anotherMIsa> iyaa
+[03:58:02] [Async Chat Thread - #37/INFO]: [Not Secure] <Regyyy> untuk diatas situ letakin apa ya
+[03:58:14] [Async Chat Thread - #37/INFO]: [Not Secure] <anotherMIsa> idk
+[04:01:37] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> nih sebelah sini
+[04:01:44] [Async Chat Thread - #39/INFO]: [Not Secure] <anotherMIsa> mana
+[04:01:45] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> masa jendela lagi
+[04:01:48] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> bawah
+[04:01:53] [Async Chat Thread - #39/INFO]: [Not Secure] <anotherMIsa> hmm
+[04:01:58] [Async Chat Thread - #39/INFO]: [Not Secure] <anotherMIsa> bikin jam :v
+[04:02:15] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> bikin jam tuh terlalu kompleks wkwk
+[04:02:17] [Async Chat Thread - #39/INFO]: [Not Secure] <anotherMIsa> wkwk
+[04:02:18] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> untuk build sekecil ini
+[04:02:25] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> makanya aku bikin jendela bulet aja di depan tuh
+[04:02:28] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> soalnya mirip jam
+[04:02:51] [Async Chat Thread - #39/INFO]: [Not Secure] <anotherMIsa> jendela aja sih kayaknya
+[04:02:57] [Async Chat Thread - #39/INFO]: [Not Secure] <anotherMIsa> apa pake stained glass gitu biar unik
+[04:03:14] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> kalau jendela di bawah bawahnya pakai trapdoor
+[04:03:19] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> kali ini pakai glass bisa sih
+[04:03:27] [Async Chat Thread - #38/INFO]: [Not Secure] <anotherMIsa> kayak https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/300px-Chartres_RosetteNord_121_DSC08241.jpg
+[04:03:36] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> whats that
+[04:03:37] [Async Chat Thread - #39/INFO]: [Not Secure] <anotherMIsa> yah gak bisa di klik ;v
+[04:03:47] [Async Chat Thread - #38/INFO]: [Not Secure] <anotherMIsa> stained glass window
+[04:04:32] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> ohhh
+[04:04:36] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> kalau itu sih pakai ini
+[04:04:39] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> glazed terracotta
+[04:04:45] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> kek kita anggap glass gitu
+[04:04:50] [Async Chat Thread - #38/INFO]: [Not Secure] <anotherMIsa> glazed terracota gak transparan kan?
+[04:05:00] [Async Chat Thread - #38/INFO]: [Not Secure] <Regyyy> enggak sih
+[04:05:13] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> tapi kalau mau bikin jendela yang bukan jendela
+[04:05:50] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> maksudku kek itu tu jendela
+[04:05:58] [Async Chat Thread - #39/INFO]: [Not Secure] <Regyyy> tapi gak bisa difngsiin jadi jendela wkwk
+[04:06:01] [Async Chat Thread - #38/INFO]: [Not Secure] <anotherMIsa> iya sih
+[04:07:04] [Async Chat Thread - #40/INFO]: [Not Secure] <Regyyy> yang paling mirip sama stained glass rl ya glazed terracotta
+[04:07:11] [Async Chat Thread - #41/INFO]: [Not Secure] <anotherMIsa> hmm
+[04:07:28] [Async Chat Thread - #40/INFO]: [Not Secure] <anotherMIsa> bebas sih aku gatau gimana bagusnya wkwk
+[04:08:26] [Async Chat Thread - #40/INFO]: [Not Secure] <Regyyy> 7 x 9
+[04:08:30] [Async Chat Thread - #41/INFO]: [Not Secure] <Regyyy> aku ke creative duls
+[04:08:32] [Server thread/INFO]: Regyyy lost connection: Disconnected
+[04:08:32] [Server thread/INFO]: Regyyy left the game
+[04:10:58] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:10:58] [Server thread/INFO]: Saved the game
