@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-02-23 09:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-01-25 23:09:45 +0000"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2023-02-23 07:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2023-02-19 07:07:35 +0000"
@@ -392,6 +404,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-01-26 23:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-02-23 10:32:47 +0000"
     },
     "done": true
   },
@@ -686,6 +704,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2023-01-25 10:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2023-02-23 07:36:37 +0000"
     },
     "done": true
   },
@@ -2003,6 +2027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2023-02-23 06:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2023-01-26 01:32:03 +0000"
@@ -2577,6 +2607,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2023-02-23 08:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2023-01-25 08:02:16 +0000"
@@ -2682,6 +2718,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2023-01-25 09:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2023-02-23 06:09:55 +0000"
     },
     "done": true
   },
@@ -3059,6 +3101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-02-23 09:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2023-01-25 09:08:42 +0000"
@@ -3176,6 +3224,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2023-02-03 00:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-02-23 10:06:00 +0000"
     },
     "done": true
   },
@@ -3623,6 +3677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2023-02-23 07:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2023-01-26 23:37:43 +0000"
@@ -3764,6 +3824,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2023-01-30 04:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-02-23 10:06:00 +0000"
     },
     "done": true
   },
